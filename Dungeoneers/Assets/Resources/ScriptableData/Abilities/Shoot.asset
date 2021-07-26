@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 876106df8e81c0e4e8904741af7dcda3, type: 3}
+  m_Name: Shoot
+  m_EditorClassIdentifier: 
+  abilityName: Shoot
+  typeOfDamage: 3
+  elementOfDamage: 0
+  damage: 10
+  critChance: 0
+  cost: 3
+  burnout: 60
+  cooldown: 1
+  distance: 1
+  disableTime: 2
+  reach: 121
+  speed: {x: 40, y: 0}
+  acceleration: {x: 0, y: 0}
+  coloration: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+  icon: {fileID: 21300000, guid: fbcfb765ac713504e9f17014e869c486, type: 3}
+  sprite: {fileID: 2650905802421733990, guid: a28436d5db5007d48896503d11b856ab, type: 3}
+  user: {fileID: 0}

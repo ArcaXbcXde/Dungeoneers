@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07be1fd296709274283217771de3970e, type: 3}
+  m_Name: WarriorFlailShield
+  m_EditorClassIdentifier: 
+  spriteMale: {fileID: 1566129410124387258, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  spriteFemale: {fileID: -5694475222940217840, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  id: 6
+  pos: 5
+  charName: Warrior Flail Defender
+  race: 0
+  hpMax: 50
+  hpRegen: 0.5
+  defenses:
+    baseDefense: 2
+    shieldMax: 1
+    pierce: 3
+    cut: 2
+    blunt: -1
+    explosive: 1
+    water: 0
+    fire: 0
+    earth: 1
+    air: 1
+  enMax: 50
+  enRegen: 10
+  movSpd: 18
+  jumpStrength: 18
+  jump: 1
+  jumpTwice: 0
+  jumpWall: 0
+  jumpFly: 0
+  ability1: {fileID: 11400000, guid: 0fe49fc3369904248b14cc18c256c702, type: 2}
+  ability2: {fileID: 11400000, guid: ca49a2292e952a848a2b49b637295bc9, type: 2}
+  ability3: {fileID: 11400000, guid: 6ba5cdd629896da4387d86bba92dc4de, type: 2}

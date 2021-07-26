@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b907461446de64e964d5417c4cfa53, type: 3}
+  m_Name: Demon
+  m_EditorClassIdentifier: 
+  traitName: Demon
+  traitedEntities:
+  - {fileID: 11400000, guid: 4271b2cd74e70f847ace3dcd64dbd48c, type: 2}
+  - {fileID: 11400000, guid: e4cb5bd468bc5b046aeb133a7412bb3e, type: 2}
+  - {fileID: 11400000, guid: cd1941ce326510745bb3b2d5dc9c0a83, type: 2}
+  - {fileID: 11400000, guid: e367e962014054e408f4a3c301f431bb, type: 2}
+  - {fileID: 11400000, guid: a16573ef69b2ca04d94dd12d77b7fc47, type: 2}
+  - {fileID: 11400000, guid: f33ee007e3065af47850e6d2de3b535c, type: 2}
+  - {fileID: 11400000, guid: b87fbf039fd12a34e8ac6b482eb97f2a, type: 2}
+  - {fileID: 11400000, guid: 00163c1fc94665e458396ae79f6ca592, type: 2}
+  - {fileID: 11400000, guid: eaa458100433f93479bbfbc4066dc8a6, type: 2}
+  - {fileID: 11400000, guid: 57b93c9f25303454e9b9c2bb6e274cbe, type: 2}
+  - {fileID: 11400000, guid: 6a063a36e97aa1840b7e71c59133cd89, type: 2}
+  - {fileID: 11400000, guid: a2bdefe14d24994449ccfb4cb69b1576, type: 2}
+  - {fileID: 11400000, guid: a65ae1bd9b316bd4391edd990633c613, type: 2}

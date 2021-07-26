@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07be1fd296709274283217771de3970e, type: 3}
+  m_Name: DemonicSkull
+  m_EditorClassIdentifier: 
+  spriteMale: {fileID: 6250525598968149841, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  spriteFemale: {fileID: 6250525598968149841, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  id: 0
+  pos: 265
+  charName: Demonic Skull
+  race: 4
+  hpMax: 25
+  hpRegen: 0.25
+  defenses:
+    baseDefense: 1
+    shieldMax: 0
+    pierce: 0
+    cut: 0
+    blunt: 0
+    explosive: 0
+    water: -2
+    fire: 3
+    earth: 1
+    air: 1
+  enMax: 200
+  enRegen: 20
+  movSpd: 20
+  jumpStrength: 18
+  jump: 1
+  jumpTwice: 1
+  jumpWall: 0
+  jumpFly: 0
+  ability1: {fileID: 0}
+  ability2: {fileID: 0}
+  ability3: {fileID: 0}

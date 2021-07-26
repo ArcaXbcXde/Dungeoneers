@@ -1,0 +1,7295 @@
+fileFormatVersion: 2
+guid: 5359ecb4874489b4caf6a7fa40479c9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3591572216670822957
+    second: Ground_Brick_Floor
+  - first:
+      213: 4681288291885101525
+    second: Ground_Clearstone_Floor
+  - first:
+      213: -8945074000375155664
+    second: Ground_Darkstone_Floor
+  - first:
+      213: -2427260128923531675
+    second: Ground_Brick_Window_NW
+  - first:
+      213: -3066899877593386454
+    second: Ground_Brick_Window_NE
+  - first:
+      213: -5535556580008651309
+    second: Ground_Brick_Window_W
+  - first:
+      213: -2154581067678551380
+    second: Ground_Brick_Window_E
+  - first:
+      213: 3864807715078284740
+    second: Ground_Brick
+  - first:
+      213: -1680876502278021426
+    second: Ground_Brick_Bridge
+  - first:
+      213: -9018872678736114709
+    second: Ground_Clearstone
+  - first:
+      213: -1066723042427284823
+    second: Ground_Darkstone
+  - first:
+      213: -2763731870194785981
+    second: Ground_Brick_Window_SW
+  - first:
+      213: -4308012368662300158
+    second: Ground_Brick_Window_SE
+  - first:
+      213: -7820294001176823697
+    second: Ground_Wood_Bridge
+  - first:
+      213: -5269549778693445329
+    second: Ground_Log_Down
+  - first:
+      213: -6228828172817103297
+    second: Ground_Soil_Grass
+  - first:
+      213: 6842109000818645366
+    second: Ground_Soil_Floor
+  - first:
+      213: -7034722436273648725
+    second: Ground_Leaves_1
+  - first:
+      213: -739269371854207320
+    second: Ground_Wood
+  - first:
+      213: 8420347720587592284
+    second: Ground_Log_Up
+  - first:
+      213: 962969390842260240
+    second: Ground_Soil
+  - first:
+      213: 1472401851441070087
+    second: Ground_Leaves_2
+  - first:
+      213: 287340868727448734
+    second: Ground_Ice_Floor
+  - first:
+      213: -8668472652465320837
+    second: Ground_Ice
+  - first:
+      213: -3034315483994258937
+    second: Ground_Wheat
+  - first:
+      213: -284574463747654286
+    second: Ground_Ladder
+  - first:
+      213: 1055899343139894891
+    second: Ground_Palette
+  - first:
+      213: 3889974274571133774
+    second: Ground_Pillar_Top
+  - first:
+      213: -1968230008280032332
+    second: Ground_Vines_Top
+  - first:
+      213: -6017847217147120695
+    second: Ground_Vines_Small
+  - first:
+      213: 8494700203282890932
+    second: Ground_Grime_1
+  - first:
+      213: 9117922364973926163
+    second: Ground_Moon_1
+  - first:
+      213: -7437123246593175457
+    second: Ground_Moon_2
+  - first:
+      213: -4620570575469326415
+    second: Ground_Pillar_Mid
+  - first:
+      213: 6533854516801882671
+    second: Ground_Vines
+  - first:
+      213: 2946037936602284044
+    second: Ground_Blood
+  - first:
+      213: 2421554246453517313
+    second: Ground_Grime_2
+  - first:
+      213: -7920262107651640076
+    second: Ground_Stars_3
+  - first:
+      213: -4173979115976296255
+    second: Ground_Stars_2
+  - first:
+      213: 9216452604156787087
+    second: Ground_Stars_1
+  - first:
+      213: -2460679221454203390
+    second: Ground_Moon_3
+  - first:
+      213: 875492425534591665
+    second: Ground_Moon_4
+  - first:
+      213: -4121201839571782587
+    second: Ground_Cloud_Big_1
+  - first:
+      213: 8414183654946984128
+    second: Ground_Cloud_Big_2
+  - first:
+      213: 1707782325019106239
+    second: Ground_Cloud_Big_3
+  - first:
+      213: 1247734608386953309
+    second: Ground_Cloud_Big_4
+  - first:
+      213: 8428835830119813088
+    second: Ground_Cloud_Big_5
+  - first:
+      213: 8181786293564510386
+    second: Ground_Pillar_Bottom
+  - first:
+      213: 5063046784465362559
+    second: Ground_Cloud_Big_6
+  - first:
+      213: 7797983131596593833
+    second: Ground_Cloud_Big_7
+  - first:
+      213: -3517788434023164831
+    second: Ground_Cloud_Big_8
+  - first:
+      213: -3220297745543718762
+    second: Ground_Cloud_Big_9
+  - first:
+      213: -4024029153151664501
+    second: Ground_Sky
+  - first:
+      213: 6118551844007093203
+    second: Ground_Cloud_Small_1
+  - first:
+      213: 6627747398186379325
+    second: Ground_Cloud_Small_2
+  - first:
+      213: 4117226918403561540
+    second: Ground_Cloud_Small_3
+  - first:
+      213: -411109056668055009
+    second: Ground_Cloud_Small_4
+  - first:
+      213: 5089280911696701406
+    second: Ground_Cloud_Small_5
+  - first:
+      213: 197155662967804535
+    second: Dungeoneers Ground_58
+  - first:
+      213: 6407967483185023886
+    second: Dungeoneers Ground_59
+  - first:
+      213: -541478365973822591
+    second: Dungeoneers Ground_60
+  - first:
+      213: 93706544290121938
+    second: Dungeoneers Ground_61
+  - first:
+      213: 7117044692612144570
+    second: Dungeoneers Ground_62
+  - first:
+      213: -2706499191877832683
+    second: Dungeoneers Ground_63
+  - first:
+      213: 722745072999824109
+    second: Dungeoneers Ground_64
+  - first:
+      213: -407909541044544460
+    second: Dungeoneers Ground_65
+  - first:
+      213: 9090259749958086385
+    second: Dungeoneers Ground_66
+  - first:
+      213: 5547271780487485458
+    second: Dungeoneers Ground_67
+  - first:
+      213: 6132483514210543898
+    second: Dungeoneers Ground_68
+  - first:
+      213: -5839924134293079453
+    second: Dungeoneers Ground_69
+  - first:
+      213: 27774254460389760
+    second: Dungeoneers Ground_70
+  - first:
+      213: 8532296130810322134
+    second: Dungeoneers Ground_71
+  - first:
+      213: -9152253082714789639
+    second: Dungeoneers Ground_72
+  - first:
+      213: -1738806281743537515
+    second: Dungeoneers Ground_73
+  - first:
+      213: 975108831477108824
+    second: Dungeoneers Ground_74
+  - first:
+      213: 2848596867218605592
+    second: Dungeoneers Ground_75
+  - first:
+      213: -5038162695859505610
+    second: Dungeoneers Ground_76
+  - first:
+      213: 6457732204189226472
+    second: Dungeoneers Ground_77
+  - first:
+      213: 8141006940859957344
+    second: Dungeoneers Ground_78
+  - first:
+      213: -7102242212975310088
+    second: Dungeoneers Ground_79
+  - first:
+      213: 8637089144040175127
+    second: Dungeoneers Ground_80
+  - first:
+      213: 7578031653693743008
+    second: Dungeoneers Ground_81
+  - first:
+      213: 263809268401242050
+    second: Dungeoneers Ground_82
+  - first:
+      213: -6203462250738776635
+    second: Dungeoneers Ground_83
+  - first:
+      213: -6612863937910699798
+    second: Dungeoneers Ground_84
+  - first:
+      213: 3234073117712567530
+    second: Dungeoneers Ground_85
+  - first:
+      213: -7140994910639473137
+    second: Dungeoneers Ground_86
+  - first:
+      213: -78407080767130656
+    second: Dungeoneers Ground_87
+  - first:
+      213: 6350724526821758606
+    second: Dungeoneers Ground_88
+  - first:
+      213: -2178285479716331660
+    second: Dungeoneers Ground_89
+  - first:
+      213: -1093591974195154565
+    second: Dungeoneers Ground_90
+  - first:
+      213: -7844564248071048470
+    second: Dungeoneers Ground_91
+  - first:
+      213: -3451957943317050248
+    second: Dungeoneers Ground_92
+  - first:
+      213: -1567330107592250224
+    second: Dungeoneers Ground_93
+  - first:
+      213: 2156987814531576108
+    second: Dungeoneers Ground_94
+  - first:
+      213: -3073334849086854654
+    second: Dungeoneers Ground_95
+  - first:
+      213: -2603455713323397199
+    second: Dungeoneers Ground_96
+  - first:
+      213: 6194669339562240763
+    second: Dungeoneers Ground_97
+  - first:
+      213: 6773814207628613536
+    second: Dungeoneers Ground_98
+  - first:
+      213: -7328902876539732984
+    second: Dungeoneers Ground_99
+  - first:
+      213: -2805459033087242161
+    second: Dungeoneers Ground_100
+  - first:
+      213: 1708624277211162931
+    second: Dungeoneers Ground_101
+  - first:
+      213: 7710006522182878619
+    second: Dungeoneers Ground_102
+  - first:
+      213: -2684810240079507928
+    second: Dungeoneers Ground_103
+  - first:
+      213: -3723365176396478327
+    second: Dungeoneers Ground_104
+  - first:
+      213: -2046045148911810690
+    second: Dungeoneers Ground_105
+  - first:
+      213: -662494476475155655
+    second: Dungeoneers Ground_106
+  - first:
+      213: -1910025304412026571
+    second: Dungeoneers Ground_107
+  - first:
+      213: 1943319185693045700
+    second: Dungeoneers Ground_108
+  - first:
+      213: 148197424827192322
+    second: Dungeoneers Ground_109
+  - first:
+      213: -1903239255683120427
+    second: Dungeoneers Ground_110
+  - first:
+      213: 1112444078980880236
+    second: Dungeoneers Ground_111
+  - first:
+      213: -1483650128727467731
+    second: Dungeoneers Ground_112
+  - first:
+      213: 106850031691656034
+    second: Dungeoneers Ground_113
+  - first:
+      213: 7568813787379735872
+    second: Dungeoneers Ground_114
+  - first:
+      213: -8446335159242069185
+    second: Dungeoneers Ground_115
+  - first:
+      213: 8201582816865369054
+    second: Dungeoneers Ground_116
+  - first:
+      213: 4522687865976054755
+    second: Dungeoneers Ground_117
+  - first:
+      213: -1365344096127418091
+    second: Dungeoneers Ground_118
+  - first:
+      213: -3893688132225956426
+    second: Dungeoneers Ground_119
+  - first:
+      213: -9183498002463515386
+    second: Dungeoneers Ground_120
+  - first:
+      213: -1546202326421357033
+    second: Dungeoneers Ground_121
+  - first:
+      213: 3537871038159251131
+    second: Dungeoneers Ground_122
+  - first:
+      213: 1851154292789670272
+    second: Dungeoneers Ground_123
+  - first:
+      213: -4278217471095877413
+    second: Dungeoneers Ground_124
+  - first:
+      213: -2451310853711214052
+    second: Dungeoneers Ground_125
+  - first:
+      213: -8225933514059518071
+    second: Dungeoneers Ground_126
+  - first:
+      213: -8461870052643138134
+    second: Dungeoneers Ground_127
+  - first:
+      213: 2535988439116437250
+    second: Dungeoneers Ground_128
+  - first:
+      213: 5569005536618090342
+    second: Dungeoneers Ground_129
+  - first:
+      213: 8870482687273967320
+    second: Dungeoneers Ground_130
+  - first:
+      213: -6031746172529499163
+    second: Dungeoneers Ground_131
+  - first:
+      213: -5453074726172547831
+    second: Dungeoneers Ground_132
+  - first:
+      213: 5476912891240329192
+    second: Dungeoneers Ground_133
+  - first:
+      213: -1563318991017340492
+    second: Dungeoneers Ground_134
+  - first:
+      213: 6241772374277168436
+    second: Dungeoneers Ground_135
+  - first:
+      213: -3805854149290840644
+    second: Dungeoneers Ground_136
+  - first:
+      213: 2996212463322868546
+    second: Dungeoneers Ground_137
+  - first:
+      213: -95719857682115437
+    second: Dungeoneers Ground_138
+  - first:
+      213: -706430797426708918
+    second: Dungeoneers Ground_139
+  - first:
+      213: -402423725146892216
+    second: Dungeoneers Ground_140
+  - first:
+      213: 5408054477012933832
+    second: Dungeoneers Ground_141
+  - first:
+      213: -2230417778492932584
+    second: Dungeoneers Ground_142
+  - first:
+      213: 1045390031764962056
+    second: Dungeoneers Ground_143
+  - first:
+      213: 3892562040991598491
+    second: Dungeoneers Ground_144
+  - first:
+      213: 2280838086948990487
+    second: Dungeoneers Ground_145
+  - first:
+      213: -2097132908602610738
+    second: Dungeoneers Ground_146
+  - first:
+      213: -3413603034303461061
+    second: Dungeoneers Ground_147
+  - first:
+      213: 8713612806545063719
+    second: Dungeoneers Ground_148
+  - first:
+      213: 4459831421433648605
+    second: Dungeoneers Ground_149
+  - first:
+      213: 1844677104842717635
+    second: Dungeoneers Ground_150
+  - first:
+      213: -7582711974541441661
+    second: Dungeoneers Ground_151
+  - first:
+      213: -6597510162198904593
+    second: Dungeoneers Ground_152
+  - first:
+      213: -6401597562394526943
+    second: Dungeoneers Ground_153
+  - first:
+      213: 761842518544409689
+    second: Dungeoneers Ground_154
+  - first:
+      213: 3488944334898005952
+    second: Dungeoneers Ground_155
+  - first:
+      213: -4118527938301730954
+    second: Dungeoneers Ground_156
+  - first:
+      213: -4541757251229634063
+    second: Dungeoneers Ground_157
+  - first:
+      213: 6364914095438477361
+    second: Dungeoneers Ground_158
+  - first:
+      213: 2771957578128407193
+    second: Dungeoneers Ground_159
+  - first:
+      213: 4058572773440576865
+    second: Dungeoneers Ground_160
+  - first:
+      213: -3996448835354459706
+    second: Dungeoneers Ground_161
+  - first:
+      213: -3814448855078597027
+    second: Dungeoneers Ground_162
+  - first:
+      213: 20831906732436532
+    second: Dungeoneers Ground_163
+  - first:
+      213: -7945542844201005155
+    second: Dungeoneers Ground_164
+  - first:
+      213: 843810141021115234
+    second: Dungeoneers Ground_165
+  - first:
+      213: 4964178166944921147
+    second: Dungeoneers Ground_166
+  - first:
+      213: -7302253757642174179
+    second: Dungeoneers Ground_167
+  - first:
+      213: -3443253848410696304
+    second: Dungeoneers Ground_168
+  - first:
+      213: -4575815489953902439
+    second: Dungeoneers Ground_169
+  - first:
+      213: 1260951278785598253
+    second: Dungeoneers Ground_170
+  - first:
+      213: -1672143015705703793
+    second: Dungeoneers Ground_171
+  - first:
+      213: -3639938357835968508
+    second: Dungeoneers Ground_172
+  - first:
+      213: -2582753848341848418
+    second: Dungeoneers Ground_173
+  - first:
+      213: 5148927420037967879
+    second: Dungeoneers Ground_174
+  - first:
+      213: 7722778606176825500
+    second: Dungeoneers Ground_175
+  - first:
+      213: 5279225189656197432
+    second: Dungeoneers Ground_176
+  - first:
+      213: -6159973519066550228
+    second: Dungeoneers Ground_177
+  - first:
+      213: -7310141805198748686
+    second: Dungeoneers Ground_178
+  - first:
+      213: 5731359853512919057
+    second: Dungeoneers Ground_179
+  - first:
+      213: 6659823241277894765
+    second: Dungeoneers Ground_180
+  - first:
+      213: -3094867533082055601
+    second: Dungeoneers Ground_181
+  - first:
+      213: -851211026619176576
+    second: Dungeoneers Ground_182
+  - first:
+      213: -4691376434032341901
+    second: Dungeoneers Ground_183
+  - first:
+      213: -3076703541425219673
+    second: Dungeoneers Ground_184
+  - first:
+      213: 2077085181852682633
+    second: Dungeoneers Ground_185
+  - first:
+      213: 8843221872831249172
+    second: Dungeoneers Ground_186
+  - first:
+      213: -4979395888677217503
+    second: Dungeoneers Ground_187
+  - first:
+      213: -2576531283968088959
+    second: Dungeoneers Ground_188
+  - first:
+      213: -6486813271923108074
+    second: Dungeoneers Ground_189
+  - first:
+      213: -8765139651857194470
+    second: Dungeoneers Ground_190
+  - first:
+      213: 2559343147542701327
+    second: Dungeoneers Ground_191
+  - first:
+      213: -3907820233619367850
+    second: Dungeoneers Ground_192
+  - first:
+      213: -4525691091023999608
+    second: Dungeoneers Ground_193
+  - first:
+      213: -7637837508959863663
+    second: Dungeoneers Ground_194
+  - first:
+      213: 5175074628801250459
+    second: Dungeoneers Ground_195
+  - first:
+      213: 5477957861457731394
+    second: Dungeoneers Ground_196
+  - first:
+      213: 6143635659432985489
+    second: Dungeoneers Ground_197
+  - first:
+      213: 3782747585263064399
+    second: Dungeoneers Ground_198
+  - first:
+      213: -3178469218924802274
+    second: Dungeoneers Ground_199
+  - first:
+      213: -2928335477804257952
+    second: Dungeoneers Ground_200
+  - first:
+      213: -8725245906009361897
+    second: Dungeoneers Ground_201
+  - first:
+      213: -4523498277427822659
+    second: Dungeoneers Ground_202
+  - first:
+      213: 123515062318425980
+    second: Dungeoneers Ground_203
+  - first:
+      213: -911011706761809945
+    second: Dungeoneers Ground_204
+  - first:
+      213: 5894132063615410625
+    second: Dungeoneers Ground_205
+  - first:
+      213: -4585597902727899031
+    second: Dungeoneers Ground_206
+  - first:
+      213: 4297704304905749001
+    second: Dungeoneers Ground_207
+  - first:
+      213: -8666960745873255376
+    second: Dungeoneers Ground_208
+  - first:
+      213: 7813066218573928775
+    second: Dungeoneers Ground_209
+  - first:
+      213: -8035454969150403725
+    second: Dungeoneers Ground_210
+  - first:
+      213: -8128720311252152226
+    second: Dungeoneers Ground_211
+  - first:
+      213: -6814437601702655191
+    second: Dungeoneers Ground_212
+  - first:
+      213: 5184067602394321850
+    second: Dungeoneers Ground_213
+  - first:
+      213: 2851083503040979704
+    second: Dungeoneers Ground_214
+  - first:
+      213: 3960098804901538788
+    second: Dungeoneers Ground_215
+  - first:
+      213: 5427745758702624230
+    second: Dungeoneers Ground_216
+  - first:
+      213: -5520707393645722583
+    second: Dungeoneers Ground_217
+  - first:
+      213: 7122570069411669761
+    second: Dungeoneers Ground_218
+  - first:
+      213: -4875509033584444268
+    second: Dungeoneers Ground_219
+  - first:
+      213: 3936015074732068757
+    second: Dungeoneers Ground_220
+  - first:
+      213: -46491987660375701
+    second: Dungeoneers Ground_221
+  - first:
+      213: 5555009242229369813
+    second: Dungeoneers Ground_222
+  - first:
+      213: -2217624739421217276
+    second: Dungeoneers Ground_223
+  - first:
+      213: 8591078796637932817
+    second: Dungeoneers Ground_224
+  - first:
+      213: 8403662963619207818
+    second: Dungeoneers Ground_225
+  - first:
+      213: -1361430040519614930
+    second: Dungeoneers Ground_226
+  - first:
+      213: -7820705514665398338
+    second: Dungeoneers Ground_227
+  - first:
+      213: -6873336823466527411
+    second: Dungeoneers Ground_228
+  - first:
+      213: -7967131396081802923
+    second: Dungeoneers Ground_229
+  - first:
+      213: -8133475353544055404
+    second: Dungeoneers Ground_230
+  - first:
+      213: 5447874580218673651
+    second: Dungeoneers Ground_231
+  - first:
+      213: 8067387698128456097
+    second: Dungeoneers Ground_232
+  - first:
+      213: -6796401382402163787
+    second: Dungeoneers Ground_233
+  - first:
+      213: 2849892505963633841
+    second: Dungeoneers Ground_234
+  - first:
+      213: -9165663890569311970
+    second: Dungeoneers Ground_235
+  - first:
+      213: -8883361284827468762
+    second: Dungeoneers Ground_236
+  - first:
+      213: -8392607895468449382
+    second: Dungeoneers Ground_237
+  - first:
+      213: -2528275448861975900
+    second: Dungeoneers Ground_238
+  - first:
+      213: -8273923417057406790
+    second: Dungeoneers Ground_239
+  - first:
+      213: -6742503830337662377
+    second: Dungeoneers Ground_240
+  - first:
+      213: 4733914775069700573
+    second: Dungeoneers Ground_241
+  - first:
+      213: 6632132779030360704
+    second: Dungeoneers Ground_242
+  - first:
+      213: -7533846403513976904
+    second: Dungeoneers Ground_243
+  - first:
+      213: 3314302456976695568
+    second: Dungeoneers Ground_244
+  - first:
+      213: -3574095429069506909
+    second: Dungeoneers Ground_245
+  - first:
+      213: 642780764458298177
+    second: Dungeoneers Ground_246
+  - first:
+      213: -1971657983619047686
+    second: Dungeoneers Ground_247
+  - first:
+      213: 3457757788203536363
+    second: Dungeoneers Ground_248
+  - first:
+      213: -1854711564913863992
+    second: Dungeoneers Ground_249
+  - first:
+      213: 7559858083513958012
+    second: Dungeoneers Ground_250
+  - first:
+      213: -5148841429810522187
+    second: Dungeoneers Ground_251
+  - first:
+      213: -4862619499080795729
+    second: Dungeoneers Ground_252
+  - first:
+      213: 442047722656977112
+    second: Dungeoneers Ground_253
+  - first:
+      213: -582879995597445344
+    second: Dungeoneers Ground_254
+  - first:
+      213: -3440335087790640496
+    second: Dungeoneers Ground_255
+  - first:
+      213: -4950983897885906527
+    second: Dungeoneers Ground_256
+  - first:
+      213: -8373892197468602754
+    second: Dungeoneers Ground_257
+  - first:
+      213: -8725426598609290108
+    second: Dungeoneers Ground_258
+  - first:
+      213: 5835555753977458642
+    second: Dungeoneers Ground_259
+  - first:
+      213: 5291587708429513513
+    second: Dungeoneers Ground_260
+  - first:
+      213: 5384678458833636620
+    second: Dungeoneers Ground_261
+  - first:
+      213: -3123422867567772370
+    second: Dungeoneers Ground_262
+  - first:
+      213: -1899186478137542934
+    second: Dungeoneers Ground_263
+  - first:
+      213: -6595712552796739722
+    second: Dungeoneers Ground_264
+  - first:
+      213: -4977096431396797989
+    second: Dungeoneers Ground_265
+  - first:
+      213: 1764937153029238177
+    second: Dungeoneers Ground_266
+  - first:
+      213: -445863714650375477
+    second: Dungeoneers Ground_267
+  - first:
+      213: 3629811653427264725
+    second: Dungeoneers Ground_268
+  - first:
+      213: 5933334808878936995
+    second: Dungeoneers Ground_269
+  - first:
+      213: 751039728678169764
+    second: Dungeoneers Ground_270
+  - first:
+      213: 7820279934040606781
+    second: Dungeoneers Ground_271
+  - first:
+      213: -7837929671642311774
+    second: Dungeoneers Ground_272
+  - first:
+      213: -4674022392744252273
+    second: Dungeoneers Ground_273
+  - first:
+      213: 3730163477928694540
+    second: Dungeoneers Ground_274
+  - first:
+      213: 647966521804551826
+    second: Dungeoneers Ground_275
+  - first:
+      213: 8377791078239739102
+    second: Dungeoneers Ground_276
+  - first:
+      213: 2292710120250336451
+    second: Dungeoneers Ground_277
+  - first:
+      213: -661957318179678848
+    second: Dungeoneers Ground_278
+  - first:
+      213: 2814048107519996
+    second: Dungeoneers Ground_279
+  - first:
+      213: -507836296907541332
+    second: Dungeoneers Ground_280
+  - first:
+      213: 3099972660699306345
+    second: Dungeoneers Ground_281
+  - first:
+      213: 7846405213339754100
+    second: Dungeoneers Ground_282
+  - first:
+      213: 5112155095457757539
+    second: Dungeoneers Ground_283
+  - first:
+      213: -1989344625164068844
+    second: Dungeoneers Ground_284
+  - first:
+      213: -2854896513943763477
+    second: Dungeoneers Ground_285
+  - first:
+      213: -419355900100345115
+    second: Dungeoneers Ground_286
+  - first:
+      213: 7727133683723869553
+    second: Dungeoneers Ground_287
+  - first:
+      213: -7812141046613283736
+    second: Dungeoneers Ground_288
+  - first:
+      213: 6526275026554646205
+    second: Dungeoneers Ground_289
+  - first:
+      213: 4180263524972149529
+    second: Dungeoneers Ground_290
+  - first:
+      213: 3088575213139087352
+    second: Dungeoneers Ground_291
+  - first:
+      213: -1209613914892448888
+    second: Dungeoneers Ground_292
+  - first:
+      213: 6385038086129784057
+    second: Dungeoneers Ground_293
+  - first:
+      213: -8963465691472798221
+    second: Dungeoneers Ground_294
+  - first:
+      213: -7147573230885486981
+    second: Dungeoneers Ground_295
+  - first:
+      213: 427783492282390392
+    second: Dungeoneers Ground_296
+  - first:
+      213: -6145726749228140591
+    second: Dungeoneers Ground_297
+  - first:
+      213: 797719314835693605
+    second: Dungeoneers Ground_298
+  - first:
+      213: -857538622759498827
+    second: Dungeoneers Ground_299
+  - first:
+      213: -1222045667348445732
+    second: Dungeoneers Ground_300
+  - first:
+      213: -6079734116833160934
+    second: Dungeoneers Ground_301
+  - first:
+      213: 5153679826866347901
+    second: Dungeoneers Ground_302
+  - first:
+      213: 5004073270157889371
+    second: Dungeoneers Ground_303
+  - first:
+      213: 3957042846207847943
+    second: Dungeoneers Ground_304
+  - first:
+      213: 8283802947840739629
+    second: Dungeoneers Ground_305
+  - first:
+      213: 3849893552773717796
+    second: Dungeoneers Ground_306
+  - first:
+      213: -2586832045480154625
+    second: Dungeoneers Ground_307
+  - first:
+      213: -3375301254627426956
+    second: Dungeoneers Ground_308
+  - first:
+      213: -625362280176498672
+    second: Dungeoneers Ground_309
+  - first:
+      213: 7178331366154827612
+    second: Dungeoneers Ground_310
+  - first:
+      213: -6094541558457952815
+    second: Dungeoneers Ground_311
+  - first:
+      213: -8418143012354155133
+    second: Dungeoneers Ground_312
+  - first:
+      213: -8711391050748165123
+    second: Dungeoneers Ground_313
+  - first:
+      213: 2228977625560776789
+    second: Dungeoneers Ground_314
+  - first:
+      213: -8887675790446024032
+    second: Dungeoneers Ground_315
+  - first:
+      213: 2680447547306356178
+    second: Dungeoneers Ground_316
+  - first:
+      213: 3501384666793472816
+    second: Dungeoneers Ground_317
+  - first:
+      213: 672176007297922891
+    second: Dungeoneers Ground_318
+  - first:
+      213: 2776725411378556289
+    second: Dungeoneers Ground_319
+  - first:
+      213: -965520600667419413
+    second: Dungeoneers Ground_320
+  - first:
+      213: 8936215520156446422
+    second: Dungeoneers Ground_321
+  - first:
+      213: 1651314842248564814
+    second: Dungeoneers Ground_322
+  - first:
+      213: -7833177047600053141
+    second: Dungeoneers Ground_323
+  - first:
+      213: 3030016723670745424
+    second: Dungeoneers Ground_324
+  - first:
+      213: -8554190893959384767
+    second: Dungeoneers Ground_325
+  - first:
+      213: 4485862156419326089
+    second: Dungeoneers Ground_326
+  - first:
+      213: -6639673707413379553
+    second: Dungeoneers Ground_327
+  - first:
+      213: 5474954750220859842
+    second: Dungeoneers Ground_328
+  - first:
+      213: -15017079848951126
+    second: Dungeoneers Ground_329
+  - first:
+      213: -6053443692385654977
+    second: Dungeoneers Ground_330
+  - first:
+      213: -6452496162694542077
+    second: Dungeoneers Ground_331
+  - first:
+      213: 5417517954545797471
+    second: Dungeoneers Ground_332
+  - first:
+      213: -1072714724913537462
+    second: Dungeoneers Ground_333
+  - first:
+      213: -7339105769308250701
+    second: Dungeoneers Ground_334
+  - first:
+      213: 5211819448091168822
+    second: Dungeoneers Ground_335
+  - first:
+      213: -3248556114457478126
+    second: Dungeoneers Ground_336
+  - first:
+      213: 5956239352902198361
+    second: Dungeoneers Ground_337
+  - first:
+      213: 6664422689816917219
+    second: Dungeoneers Ground_338
+  - first:
+      213: -2587975337375012392
+    second: Dungeoneers Ground_339
+  - first:
+      213: 7808503968700972370
+    second: Dungeoneers Ground_340
+  - first:
+      213: -1641824308601394447
+    second: Dungeoneers Ground_341
+  - first:
+      213: -2974630455860072185
+    second: Dungeoneers Ground_342
+  - first:
+      213: 7762438875116051087
+    second: Dungeoneers Ground_343
+  - first:
+      213: 8484615553192500724
+    second: Dungeoneers Ground_344
+  - first:
+      213: 3390388068532133452
+    second: Dungeoneers Ground_345
+  - first:
+      213: 8002442539937976118
+    second: Dungeoneers Ground_346
+  - first:
+      213: -6377027858163539498
+    second: Dungeoneers Ground_347
+  - first:
+      213: -654371171537300328
+    second: Dungeoneers Ground_348
+  - first:
+      213: -1767940895752232646
+    second: Dungeoneers Ground_349
+  - first:
+      213: -2315022182400717074
+    second: Dungeoneers Ground_350
+  - first:
+      213: -1135067817866000198
+    second: Dungeoneers Ground_351
+  - first:
+      213: 6228156821960719017
+    second: Dungeoneers Ground_352
+  - first:
+      213: -2356086365124764056
+    second: Dungeoneers Ground_353
+  - first:
+      213: -6177508482478393611
+    second: Dungeoneers Ground_354
+  - first:
+      213: 8437873668234158315
+    second: Dungeoneers Ground_355
+  - first:
+      213: 1652998558230373804
+    second: Dungeoneers Ground_356
+  - first:
+      213: -6329355511370175325
+    second: Dungeoneers Ground_357
+  - first:
+      213: 5294254470203826094
+    second: Dungeoneers Ground_358
+  - first:
+      213: -4013972606368935999
+    second: Dungeoneers Ground_359
+  - first:
+      213: 5196553477376995036
+    second: Dungeoneers Ground_360
+  - first:
+      213: -6476064222264036294
+    second: Dungeoneers Ground_361
+  - first:
+      213: -5404575630762765821
+    second: Dungeoneers Ground_362
+  - first:
+      213: -6603853890377244539
+    second: Dungeoneers Ground_363
+  - first:
+      213: -5644466524620316048
+    second: Dungeoneers Ground_364
+  - first:
+      213: 8844257285090395813
+    second: Dungeoneers Ground_365
+  - first:
+      213: -5644892534326887426
+    second: Dungeoneers Ground_366
+  - first:
+      213: -3262878351302687976
+    second: Dungeoneers Ground_367
+  - first:
+      213: 6468222979080863900
+    second: Dungeoneers Ground_368
+  - first:
+      213: 38860261948753010
+    second: Dungeoneers Ground_369
+  - first:
+      213: -4613807018321513566
+    second: Dungeoneers Ground_370
+  - first:
+      213: 1350645998502712203
+    second: Dungeoneers Ground_371
+  - first:
+      213: 9082862626316779502
+    second: Dungeoneers Ground_372
+  - first:
+      213: 5183574200811915537
+    second: Dungeoneers Ground_373
+  - first:
+      213: 1863330047873989563
+    second: Dungeoneers Ground_374
+  - first:
+      213: 3085194317493049953
+    second: Dungeoneers Ground_375
+  - first:
+      213: 6517171872905851541
+    second: Dungeoneers Ground_376
+  - first:
+      213: 265429068846067354
+    second: Dungeoneers Ground_377
+  - first:
+      213: -3152812192108908394
+    second: Dungeoneers Ground_378
+  - first:
+      213: 3843370131207868217
+    second: Dungeoneers Ground_379
+  - first:
+      213: -562501383612754301
+    second: Dungeoneers Ground_380
+  - first:
+      213: 1014830650188205824
+    second: Dungeoneers Ground_381
+  - first:
+      213: 4255308142599082920
+    second: Dungeoneers Ground_382
+  - first:
+      213: -5827184038845554576
+    second: Dungeoneers Ground_383
+  - first:
+      213: 1577229048056743112
+    second: Dungeoneers Ground_384
+  - first:
+      213: -8665624670367323411
+    second: Dungeoneers Ground_385
+  - first:
+      213: 7679890997353265422
+    second: Dungeoneers Ground_386
+  - first:
+      213: -4803690489684150812
+    second: Dungeoneers Ground_387
+  - first:
+      213: -225483130623156201
+    second: Dungeoneers Ground_388
+  - first:
+      213: 5065965650059142476
+    second: Dungeoneers Ground_389
+  - first:
+      213: -8552918696995708577
+    second: Dungeoneers Ground_390
+  - first:
+      213: 3752464781943341306
+    second: Dungeoneers Ground_391
+  - first:
+      213: -3171586264337980757
+    second: Dungeoneers Ground_392
+  - first:
+      213: -5884801999619292881
+    second: Dungeoneers Ground_393
+  - first:
+      213: -8463412461412252629
+    second: Dungeoneers Ground_394
+  - first:
+      213: -2963532636872924940
+    second: Dungeoneers Ground_395
+  - first:
+      213: -6638957018315436401
+    second: Dungeoneers Ground_396
+  - first:
+      213: 7202112622674971615
+    second: Dungeoneers Ground_397
+  - first:
+      213: 8551996038761954842
+    second: Dungeoneers Ground_398
+  - first:
+      213: 2458651327445558219
+    second: Dungeoneers Ground_399
+  - first:
+      213: -4412465761223860304
+    second: Dungeoneers Ground_400
+  - first:
+      213: 1862125986771646705
+    second: Dungeoneers Ground_401
+  - first:
+      213: 1382562523911969193
+    second: Dungeoneers Ground_402
+  - first:
+      213: -5195137590522902380
+    second: Dungeoneers Ground_403
+  - first:
+      213: 2359081955544795113
+    second: Dungeoneers Ground_404
+  - first:
+      213: 6375162238110706086
+    second: Dungeoneers Ground_405
+  - first:
+      213: 3357372052959125357
+    second: Dungeoneers Ground_406
+  - first:
+      213: 2589457936902626851
+    second: Dungeoneers Ground_407
+  - first:
+      213: -8223273451477719963
+    second: Dungeoneers Ground_408
+  - first:
+      213: -7029376676239553714
+    second: Dungeoneers Ground_409
+  - first:
+      213: -2930262026066173375
+    second: Dungeoneers Ground_410
+  - first:
+      213: -8765582427649441991
+    second: Dungeoneers Ground_411
+  - first:
+      213: -2197027704531666452
+    second: Dungeoneers Ground_412
+  - first:
+      213: 5740730089504297622
+    second: Dungeoneers Ground_413
+  - first:
+      213: 5203925348682371892
+    second: Dungeoneers Ground_414
+  - first:
+      213: -1959042306387364677
+    second: Dungeoneers Ground_415
+  - first:
+      213: 1881295586132407609
+    second: Dungeoneers Ground_416
+  - first:
+      213: 879065514806930303
+    second: Dungeoneers Ground_417
+  - first:
+      213: 2316015921282617761
+    second: Dungeoneers Ground_418
+  - first:
+      213: 1018751007704507985
+    second: Dungeoneers Ground_419
+  - first:
+      213: -7816019110040798986
+    second: Dungeoneers Ground_420
+  - first:
+      213: 3746898522309126933
+    second: Dungeoneers Ground_421
+  - first:
+      213: -6577020735851892517
+    second: Dungeoneers Ground_422
+  - first:
+      213: -2832269947743098299
+    second: Dungeoneers Ground_423
+  - first:
+      213: -573135646498394356
+    second: Dungeoneers Ground_424
+  - first:
+      213: -3055077215560995527
+    second: Dungeoneers Ground_425
+  - first:
+      213: 7112946022798657026
+    second: Dungeoneers Ground_426
+  - first:
+      213: -7574999860067859011
+    second: Dungeoneers Ground_427
+  - first:
+      213: -4623361885305391841
+    second: Dungeoneers Ground_428
+  - first:
+      213: 8231194078479504080
+    second: Dungeoneers Ground_429
+  - first:
+      213: 8987858132490599071
+    second: Dungeoneers Ground_430
+  - first:
+      213: -2175534902334527921
+    second: Dungeoneers Ground_431
+  - first:
+      213: -1995119624427142210
+    second: Dungeoneers Ground_432
+  - first:
+      213: -4490008150906943845
+    second: Dungeoneers Ground_433
+  - first:
+      213: 8442250659651333331
+    second: Dungeoneers Ground_434
+  - first:
+      213: 4757344008835707093
+    second: Dungeoneers Ground_435
+  - first:
+      213: -2052381948060791942
+    second: Dungeoneers Ground_436
+  - first:
+      213: -6988241861600562109
+    second: Dungeoneers Ground_437
+  - first:
+      213: -241467409783042565
+    second: Dungeoneers Ground_438
+  - first:
+      213: -8062159203056131680
+    second: Dungeoneers Ground_439
+  - first:
+      213: -7016121889120314612
+    second: Dungeoneers Ground_440
+  - first:
+      213: 4645539690449932540
+    second: Dungeoneers Ground_441
+  - first:
+      213: -7388058046882765674
+    second: Dungeoneers Ground_442
+  - first:
+      213: 3820558266058166201
+    second: Dungeoneers Ground_443
+  - first:
+      213: 2358452192518900828
+    second: Dungeoneers Ground_444
+  - first:
+      213: -3205679556745971373
+    second: Dungeoneers Ground_445
+  - first:
+      213: -5061278412896703910
+    second: Dungeoneers Ground_446
+  - first:
+      213: -1307294371281208545
+    second: Dungeoneers Ground_447
+  - first:
+      213: 1110705041293752928
+    second: Dungeoneers Ground_448
+  - first:
+      213: 6609348909775075078
+    second: Dungeoneers Ground_449
+  - first:
+      213: 3129940918076444281
+    second: Dungeoneers Ground_450
+  - first:
+      213: -2190208323997726378
+    second: Dungeoneers Ground_451
+  - first:
+      213: 4213142313608273367
+    second: Dungeoneers Ground_452
+  - first:
+      213: 1378527858200638416
+    second: Dungeoneers Ground_453
+  - first:
+      213: -2652882097843482411
+    second: Dungeoneers Ground_454
+  - first:
+      213: 7357744688251789150
+    second: Dungeoneers Ground_455
+  - first:
+      213: -3267837292361533594
+    second: Dungeoneers Ground_456
+  - first:
+      213: 3439879126613010331
+    second: Dungeoneers Ground_457
+  - first:
+      213: -5571123446041187562
+    second: Dungeoneers Ground_458
+  - first:
+      213: 8754791641220296632
+    second: Dungeoneers Ground_459
+  - first:
+      213: 6759050742114709788
+    second: Dungeoneers Ground_460
+  - first:
+      213: -2076341853263799887
+    second: Dungeoneers Ground_461
+  - first:
+      213: -3944074180048255276
+    second: Dungeoneers Ground_462
+  - first:
+      213: -4378008458532521311
+    second: Dungeoneers Ground_463
+  - first:
+      213: 4213068944102596752
+    second: Dungeoneers Ground_464
+  - first:
+      213: 3631778021839702757
+    second: Dungeoneers Ground_465
+  - first:
+      213: 1983074839884215250
+    second: Dungeoneers Ground_466
+  - first:
+      213: -1859545093703468788
+    second: Dungeoneers Ground_467
+  - first:
+      213: 320463880761531931
+    second: Dungeoneers Ground_468
+  - first:
+      213: 4117821027113850144
+    second: Dungeoneers Ground_469
+  - first:
+      213: 8018671463182947363
+    second: Dungeoneers Ground_470
+  - first:
+      213: 4921290583229539363
+    second: Dungeoneers Ground_471
+  - first:
+      213: 5624937566870468272
+    second: Dungeoneers Ground_472
+  - first:
+      213: 1131800723408456207
+    second: Dungeoneers Ground_473
+  - first:
+      213: -4139302513707693896
+    second: Dungeoneers Ground_474
+  - first:
+      213: 8246766514925595860
+    second: Dungeoneers Ground_475
+  - first:
+      213: -322370893302433872
+    second: Dungeoneers Ground_476
+  - first:
+      213: 7630482157716366369
+    second: Dungeoneers Ground_477
+  - first:
+      213: -2954339837663669406
+    second: Dungeoneers Ground_478
+  - first:
+      213: -4112866813432330466
+    second: Dungeoneers Ground_479
+  - first:
+      213: 7541121668372095471
+    second: Dungeoneers Ground_480
+  - first:
+      213: -5752526642963508801
+    second: Dungeoneers Ground_481
+  - first:
+      213: -5177052412906794131
+    second: Dungeoneers Ground_482
+  - first:
+      213: 6077406550506413365
+    second: Dungeoneers Ground_483
+  - first:
+      213: 1092817836050139024
+    second: Dungeoneers Ground_484
+  - first:
+      213: 9010926381739923210
+    second: Dungeoneers Ground_485
+  - first:
+      213: 8410879194284771442
+    second: Dungeoneers Ground_486
+  - first:
+      213: 3042099901867926379
+    second: Dungeoneers Ground_487
+  - first:
+      213: -2312289009197987533
+    second: Dungeoneers Ground_488
+  - first:
+      213: -8172647559881223272
+    second: Dungeoneers Ground_489
+  - first:
+      213: -8596429784072382905
+    second: Dungeoneers Ground_490
+  - first:
+      213: -5345055663139657450
+    second: Dungeoneers Ground_491
+  - first:
+      213: -8213798543211275549
+    second: Dungeoneers Ground_492
+  - first:
+      213: -5697249391410456446
+    second: Dungeoneers Ground_493
+  - first:
+      213: -5209530239090095732
+    second: Dungeoneers Ground_494
+  - first:
+      213: 8909068144669457087
+    second: Dungeoneers Ground_495
+  - first:
+      213: -1945136130158534304
+    second: Dungeoneers Ground_496
+  - first:
+      213: -495973467252972018
+    second: Dungeoneers Ground_497
+  - first:
+      213: 801150808338731767
+    second: Dungeoneers Ground_498
+  - first:
+      213: -5385524322771762267
+    second: Dungeoneers Ground_499
+  - first:
+      213: -7291514549831988774
+    second: Dungeoneers Ground_500
+  - first:
+      213: -410714227637728484
+    second: Dungeoneers Ground_501
+  - first:
+      213: 8500641284062431698
+    second: Dungeoneers Ground_502
+  - first:
+      213: -4596144891118979306
+    second: Dungeoneers Ground_503
+  - first:
+      213: 7067949014581405031
+    second: Dungeoneers Ground_504
+  - first:
+      213: 7526452160767148872
+    second: Dungeoneers Ground_505
+  - first:
+      213: -2502379248191878909
+    second: Dungeoneers Ground_506
+  - first:
+      213: 216234459079835334
+    second: Dungeoneers Ground_507
+  - first:
+      213: 228647687843826123
+    second: Dungeoneers Ground_508
+  - first:
+      213: -810645516193565263
+    second: Dungeoneers Ground_509
+  - first:
+      213: 338692221892889283
+    second: Dungeoneers Ground_510
+  - first:
+      213: 8081405764286546515
+    second: Dungeoneers Ground_511
+  - first:
+      213: -7372683775316453456
+    second: Dungeoneers Ground_512
+  - first:
+      213: -8456020752326933277
+    second: Dungeoneers Ground_513
+  - first:
+      213: -5997122844762958027
+    second: Dungeoneers Ground_514
+  - first:
+      213: 3239998857505153433
+    second: Dungeoneers Ground_515
+  - first:
+      213: -287860755686231548
+    second: Dungeoneers Ground_516
+  - first:
+      213: -4511851644942286081
+    second: Dungeoneers Ground_517
+  - first:
+      213: -49753367595640918
+    second: Dungeoneers Ground_518
+  - first:
+      213: -721430170683253028
+    second: Dungeoneers Ground_519
+  - first:
+      213: -1054706916987193448
+    second: Dungeoneers Ground_520
+  - first:
+      213: -5903113074395846003
+    second: Dungeoneers Ground_521
+  - first:
+      213: 8929087940058082218
+    second: Dungeoneers Ground_522
+  - first:
+      213: 657487522320836455
+    second: Dungeoneers Ground_523
+  - first:
+      213: -4280436484969414900
+    second: Dungeoneers Ground_524
+  - first:
+      213: 8903541114605736465
+    second: Dungeoneers Ground_525
+  - first:
+      213: 1207499837800020479
+    second: Dungeoneers Ground_526
+  - first:
+      213: -6008570414950656753
+    second: Dungeoneers Ground_527
+  - first:
+      213: 7770977351366796565
+    second: Dungeoneers Ground_528
+  - first:
+      213: 6522326247131512637
+    second: Dungeoneers Ground_529
+  - first:
+      213: 7305725629042102133
+    second: Dungeoneers Ground_530
+  - first:
+      213: 4013575605027974892
+    second: Dungeoneers Ground_531
+  - first:
+      213: -338835068968659830
+    second: Dungeoneers Ground_532
+  - first:
+      213: 3954840628869948225
+    second: Dungeoneers Ground_533
+  - first:
+      213: -3066189158082352402
+    second: Dungeoneers Ground_534
+  - first:
+      213: 5953519109388204193
+    second: Dungeoneers Ground_535
+  - first:
+      213: 1933101324149293582
+    second: Dungeoneers Ground_536
+  - first:
+      213: -3687606447051956322
+    second: Dungeoneers Ground_537
+  - first:
+      213: 1287269647218233719
+    second: Dungeoneers Ground_538
+  - first:
+      213: -6208836108153762689
+    second: Dungeoneers Ground_539
+  - first:
+      213: 8825459858839218052
+    second: Dungeoneers Ground_540
+  - first:
+      213: -8612181796584827140
+    second: Dungeoneers Ground_541
+  - first:
+      213: 5211655461048639450
+    second: Dungeoneers Ground_542
+  - first:
+      213: 6188081763240090101
+    second: Dungeoneers Ground_543
+  - first:
+      213: -6971213370884184319
+    second: Dungeoneers Ground_544
+  - first:
+      213: 2834152290279525234
+    second: Dungeoneers Ground_545
+  - first:
+      213: 5427751572322759628
+    second: Dungeoneers Ground_546
+  - first:
+      213: -3392135488899508742
+    second: Dungeoneers Ground_547
+  - first:
+      213: -5451625435298734711
+    second: Dungeoneers Ground_548
+  - first:
+      213: 5828092143782898004
+    second: Dungeoneers Ground_549
+  - first:
+      213: -47682470297397380
+    second: Dungeoneers Ground_550
+  - first:
+      213: -4535660828161495930
+    second: Dungeoneers Ground_551
+  - first:
+      213: 4231841551452886748
+    second: Dungeoneers Ground_552
+  - first:
+      213: 3363176775262282597
+    second: Dungeoneers Ground_553
+  - first:
+      213: -7773762390519037019
+    second: Dungeoneers Ground_554
+  - first:
+      213: -3831471301566561924
+    second: Dungeoneers Ground_555
+  - first:
+      213: 5824215769229954664
+    second: Dungeoneers Ground_556
+  - first:
+      213: 2199629399035981872
+    second: Dungeoneers Ground_557
+  - first:
+      213: 1505031355493330952
+    second: Dungeoneers Ground_558
+  - first:
+      213: 702123660435957471
+    second: Dungeoneers Ground_559
+  - first:
+      213: 7877648029629343728
+    second: Dungeoneers Ground_560
+  - first:
+      213: -6974445480468743205
+    second: Dungeoneers Ground_561
+  - first:
+      213: 950786744379492668
+    second: Dungeoneers Ground_562
+  - first:
+      213: -7789441340951174448
+    second: Dungeoneers Ground_563
+  - first:
+      213: 7625736781996023764
+    second: Dungeoneers Ground_564
+  - first:
+      213: -3314917474191123376
+    second: Dungeoneers Ground_565
+  - first:
+      213: 1480076848359587408
+    second: Dungeoneers Ground_566
+  - first:
+      213: 4637070870441690945
+    second: Dungeoneers Ground_567
+  - first:
+      213: 2383076548634894422
+    second: Dungeoneers Ground_568
+  - first:
+      213: -3818983625306889288
+    second: Dungeoneers Ground_569
+  - first:
+      213: 2412045254856955787
+    second: Dungeoneers Ground_570
+  - first:
+      213: 2013217764706695513
+    second: Dungeoneers Ground_571
+  - first:
+      213: -6189928083772412540
+    second: Dungeoneers Ground_572
+  - first:
+      213: 4976318148521041231
+    second: Dungeoneers Ground_573
+  - first:
+      213: 2056613895635904147
+    second: Dungeoneers Ground_574
+  - first:
+      213: 4404390506814733735
+    second: Dungeoneers Ground_575
+  - first:
+      213: 5211847620309882075
+    second: Dungeoneers Ground_576
+  - first:
+      213: 6443893224254132403
+    second: Dungeoneers Ground_577
+  - first:
+      213: -2636897191752865456
+    second: Dungeoneers Ground_578
+  - first:
+      213: -3004785819429562501
+    second: Dungeoneers Ground_579
+  - first:
+      213: 2502480574825582042
+    second: Dungeoneers Ground_580
+  - first:
+      213: -156846127457471471
+    second: Dungeoneers Ground_581
+  - first:
+      213: -426658489574273853
+    second: Dungeoneers Ground_582
+  - first:
+      213: 4221087034568747598
+    second: Dungeoneers Ground_583
+  - first:
+      213: -2674630923835544585
+    second: Dungeoneers Ground_584
+  - first:
+      213: 8311057085571374295
+    second: Dungeoneers Ground_585
+  - first:
+      213: 5355467421698259595
+    second: Dungeoneers Ground_586
+  - first:
+      213: -1693706396284654284
+    second: Dungeoneers Ground_587
+  - first:
+      213: 890986666363759361
+    second: Dungeoneers Ground_588
+  - first:
+      213: 6010171063354934333
+    second: Dungeoneers Ground_589
+  - first:
+      213: 1535949103005230564
+    second: Dungeoneers Ground_590
+  - first:
+      213: 5917930470487425232
+    second: Dungeoneers Ground_591
+  - first:
+      213: 6357703609869224765
+    second: Dungeoneers Ground_592
+  - first:
+      213: 6659454468193195536
+    second: Dungeoneers Ground_593
+  - first:
+      213: 1051126759444190752
+    second: Dungeoneers Ground_594
+  - first:
+      213: -2207758378646601037
+    second: Dungeoneers Ground_595
+  - first:
+      213: 7053979143849505550
+    second: Dungeoneers Ground_596
+  - first:
+      213: 3935379388267139699
+    second: Dungeoneers Ground_597
+  - first:
+      213: 5419831213056161043
+    second: Dungeoneers Ground_598
+  - first:
+      213: -8599449656970178074
+    second: Dungeoneers Ground_599
+  - first:
+      213: -3485061535729665124
+    second: Dungeoneers Ground_600
+  - first:
+      213: 1595950722423850427
+    second: Dungeoneers Ground_601
+  - first:
+      213: 8680870537378943800
+    second: Dungeoneers Ground_602
+  - first:
+      213: -6720387170334386980
+    second: Dungeoneers Ground_603
+  - first:
+      213: -7382655471538671803
+    second: Dungeoneers Ground_604
+  - first:
+      213: -2006455860436204088
+    second: Dungeoneers Ground_605
+  - first:
+      213: -8247132739355224217
+    second: Dungeoneers Ground_606
+  - first:
+      213: -7267531324231774207
+    second: Dungeoneers Ground_607
+  - first:
+      213: -5334158823506786756
+    second: Dungeoneers Ground_608
+  - first:
+      213: 1497425569348366606
+    second: Dungeoneers Ground_609
+  - first:
+      213: -3726935782041239200
+    second: Dungeoneers Ground_610
+  - first:
+      213: 2320581256526307036
+    second: Dungeoneers Ground_611
+  - first:
+      213: -4725874275981855062
+    second: Dungeoneers Ground_612
+  - first:
+      213: -2965601417938469955
+    second: Dungeoneers Ground_613
+  - first:
+      213: -5431354205703623853
+    second: Dungeoneers Ground_614
+  - first:
+      213: -4876388930722268432
+    second: Dungeoneers Ground_615
+  - first:
+      213: 1357030165062143940
+    second: Dungeoneers Ground_616
+  - first:
+      213: 481536247090935629
+    second: Dungeoneers Ground_617
+  - first:
+      213: 1740632847165710509
+    second: Dungeoneers Ground_618
+  - first:
+      213: -7548031750422006381
+    second: Dungeoneers Ground_619
+  - first:
+      213: 6312443393147024984
+    second: Dungeoneers Ground_620
+  - first:
+      213: 7263302777357856862
+    second: Dungeoneers Ground_621
+  - first:
+      213: 4583168156583107086
+    second: Dungeoneers Ground_622
+  - first:
+      213: -7563259247805212795
+    second: Dungeoneers Ground_623
+  - first:
+      213: 322597190304380843
+    second: Dungeoneers Ground_624
+  - first:
+      213: -4749114249974944877
+    second: Dungeoneers Ground_625
+  - first:
+      213: -330634740213574122
+    second: Dungeoneers Ground_626
+  - first:
+      213: 3619149213639884070
+    second: Dungeoneers Ground_627
+  - first:
+      213: -6265744496896990877
+    second: Dungeoneers Ground_628
+  - first:
+      213: 6194460596386199818
+    second: Dungeoneers Ground_629
+  - first:
+      213: -6985227436192163105
+    second: Dungeoneers Ground_630
+  - first:
+      213: 6470244536505110037
+    second: Dungeoneers Ground_631
+  - first:
+      213: 8077179402042968321
+    second: Dungeoneers Ground_632
+  - first:
+      213: 7175844975673153397
+    second: Dungeoneers Ground_633
+  - first:
+      213: -7169632344395115835
+    second: Dungeoneers Ground_634
+  - first:
+      213: -3941082269610457981
+    second: Dungeoneers Ground_635
+  - first:
+      213: 7994800395170203531
+    second: Dungeoneers Ground_636
+  - first:
+      213: 7322979758400115383
+    second: Dungeoneers Ground_637
+  - first:
+      213: -4594684322323864840
+    second: Dungeoneers Ground_638
+  - first:
+      213: -1906153072642326418
+    second: Dungeoneers Ground_639
+  - first:
+      213: -8264856533225884724
+    second: Dungeoneers Ground_640
+  - first:
+      213: -4394641631649584515
+    second: Dungeoneers Ground_641
+  - first:
+      213: 5432282429084522380
+    second: Dungeoneers Ground_642
+  - first:
+      213: 7809281265561915249
+    second: Dungeoneers Ground_643
+  - first:
+      213: -5218866290870072290
+    second: Dungeoneers Ground_644
+  - first:
+      213: -4214019126981844903
+    second: Dungeoneers Ground_645
+  - first:
+      213: -3301011780745697208
+    second: Dungeoneers Ground_646
+  - first:
+      213: -1064247043538763278
+    second: Dungeoneers Ground_647
+  - first:
+      213: -4573743708506357784
+    second: Dungeoneers Ground_648
+  - first:
+      213: -1091597834477513140
+    second: Dungeoneers Ground_649
+  - first:
+      213: 5687766352018796647
+    second: Dungeoneers Ground_650
+  - first:
+      213: -8517520201798682852
+    second: Dungeoneers Ground_651
+  - first:
+      213: -410785571960010936
+    second: Dungeoneers Ground_652
+  - first:
+      213: 1678019605331546087
+    second: Dungeoneers Ground_653
+  - first:
+      213: 4144528191537008985
+    second: Dungeoneers Ground_654
+  - first:
+      213: -7990380168767409022
+    second: Dungeoneers Ground_655
+  - first:
+      213: -7081252613652227915
+    second: Dungeoneers Ground_656
+  - first:
+      213: 6901132954010395184
+    second: Dungeoneers Ground_657
+  - first:
+      213: -6861746432622536153
+    second: Dungeoneers Ground_658
+  - first:
+      213: 6868909715357018238
+    second: Dungeoneers Ground_659
+  - first:
+      213: 9005768958662676636
+    second: Dungeoneers Ground_660
+  - first:
+      213: 2193019369615707320
+    second: Dungeoneers Ground_661
+  - first:
+      213: -5883652762607856968
+    second: Dungeoneers Ground_662
+  - first:
+      213: -1061586204607724990
+    second: Dungeoneers Ground_663
+  - first:
+      213: -6232283646335748368
+    second: Dungeoneers Ground_664
+  - first:
+      213: 9182965543728405592
+    second: Dungeoneers Ground_665
+  - first:
+      213: -421816337022577276
+    second: Dungeoneers Ground_666
+  - first:
+      213: 8224146513515364826
+    second: Dungeoneers Ground_667
+  - first:
+      213: -9141417260592776130
+    second: Dungeoneers Ground_668
+  - first:
+      213: 1486218109699336966
+    second: Dungeoneers Ground_669
+  - first:
+      213: -2490761799074194461
+    second: Dungeoneers Ground_670
+  - first:
+      213: 6651483485348927911
+    second: Dungeoneers Ground_671
+  - first:
+      213: -2336654865289229884
+    second: Dungeoneers Ground_672
+  - first:
+      213: -5010525626508792960
+    second: Dungeoneers Ground_673
+  - first:
+      213: -8469355563936563703
+    second: Dungeoneers Ground_674
+  - first:
+      213: 2750297351421468909
+    second: Dungeoneers Ground_675
+  - first:
+      213: 5856496978890467045
+    second: Dungeoneers Ground_676
+  - first:
+      213: 3116336741891979252
+    second: Dungeoneers Ground_677
+  - first:
+      213: -3413315795109191145
+    second: Dungeoneers Ground_678
+  - first:
+      213: -5585069237397877564
+    second: Dungeoneers Ground_679
+  - first:
+      213: -6527702795866780852
+    second: Dungeoneers Ground_680
+  - first:
+      213: -6496352768678934220
+    second: Dungeoneers Ground_681
+  - first:
+      213: -8700771314728479701
+    second: Dungeoneers Ground_682
+  - first:
+      213: -5187409992336636207
+    second: Dungeoneers Ground_683
+  - first:
+      213: -271964203568690690
+    second: Dungeoneers Ground_684
+  - first:
+      213: -6851916494871273857
+    second: Dungeoneers Ground_685
+  - first:
+      213: -4047856165457308799
+    second: Dungeoneers Ground_686
+  - first:
+      213: -7613121435353595407
+    second: Dungeoneers Ground_687
+  - first:
+      213: -5346748948744108210
+    second: Dungeoneers Ground_688
+  - first:
+      213: -4440914054923129042
+    second: Dungeoneers Ground_689
+  - first:
+      213: -4934225311149985709
+    second: Dungeoneers Ground_690
+  - first:
+      213: -8272162045360582387
+    second: Dungeoneers Ground_691
+  - first:
+      213: 3520358745656153237
+    second: Dungeoneers Ground_692
+  - first:
+      213: -7883740678211808261
+    second: Dungeoneers Ground_693
+  - first:
+      213: -4244478036143657528
+    second: Dungeoneers Ground_694
+  - first:
+      213: -4036914068803124473
+    second: Dungeoneers Ground_695
+  - first:
+      213: 8307711185459454388
+    second: Dungeoneers Ground_696
+  - first:
+      213: -1730191335848379597
+    second: Dungeoneers Ground_697
+  - first:
+      213: 5402972122508831667
+    second: Dungeoneers Ground_698
+  - first:
+      213: -6278536109689379369
+    second: Dungeoneers Ground_699
+  - first:
+      213: 446869276518481848
+    second: Dungeoneers Ground_700
+  - first:
+      213: -7143645356683574189
+    second: Dungeoneers Ground_701
+  - first:
+      213: -3644864106531948991
+    second: Dungeoneers Ground_702
+  - first:
+      213: 4247344284029638057
+    second: Dungeoneers Ground_703
+  - first:
+      213: 1861175194830684570
+    second: Dungeoneers Ground_704
+  - first:
+      213: -9042678667416621459
+    second: Dungeoneers Ground_705
+  - first:
+      213: 2388081488292023886
+    second: Dungeoneers Ground_706
+  - first:
+      213: 7003055742015388483
+    second: Dungeoneers Ground_707
+  - first:
+      213: -404249107797863376
+    second: Dungeoneers Ground_708
+  - first:
+      213: -3956978752347319562
+    second: Dungeoneers Ground_709
+  - first:
+      213: 6878809474703339846
+    second: Dungeoneers Ground_710
+  - first:
+      213: -6421824571990585887
+    second: Dungeoneers Ground_711
+  - first:
+      213: -6449006537019140225
+    second: Dungeoneers Ground_712
+  - first:
+      213: 1850704130613923896
+    second: Dungeoneers Ground_713
+  - first:
+      213: 5477146096333537270
+    second: Dungeoneers Ground_714
+  - first:
+      213: -3811204246977512774
+    second: Dungeoneers Ground_715
+  - first:
+      213: 3146782109528363832
+    second: Dungeoneers Ground_716
+  - first:
+      213: 6994444323781718176
+    second: Dungeoneers Ground_717
+  - first:
+      213: 7800429144976891651
+    second: Dungeoneers Ground_718
+  - first:
+      213: -1566696362417766035
+    second: Dungeoneers Ground_719
+  - first:
+      213: -6689937741922332160
+    second: Dungeoneers Ground_720
+  - first:
+      213: -4880949940008914173
+    second: Dungeoneers Ground_721
+  - first:
+      213: 1398431111106165050
+    second: Dungeoneers Ground_722
+  - first:
+      213: 9007708677939950617
+    second: Dungeoneers Ground_723
+  - first:
+      213: 2782045429153726185
+    second: Dungeoneers Ground_724
+  - first:
+      213: 8296822753927569518
+    second: Dungeoneers Ground_725
+  - first:
+      213: -1733951286498760819
+    second: Dungeoneers Ground_726
+  - first:
+      213: -7041281032309886822
+    second: Dungeoneers Ground_727
+  - first:
+      213: -2144453121491183939
+    second: Dungeoneers Ground_728
+  - first:
+      213: -1497228700427108182
+    second: Dungeoneers Ground_729
+  - first:
+      213: 2212454053276838494
+    second: Dungeoneers Ground_730
+  - first:
+      213: -9076475405496610464
+    second: Dungeoneers Ground_731
+  - first:
+      213: 845392436346119227
+    second: Dungeoneers Ground_732
+  - first:
+      213: -6509285151831091995
+    second: Dungeoneers Ground_733
+  - first:
+      213: 8037815218717477290
+    second: Dungeoneers Ground_734
+  - first:
+      213: 3766444941039740965
+    second: Dungeoneers Ground_735
+  - first:
+      213: 521011369971822997
+    second: Dungeoneers Ground_736
+  - first:
+      213: -2821275023719254911
+    second: Dungeoneers Ground_737
+  - first:
+      213: 702784381789256647
+    second: Dungeoneers Ground_738
+  - first:
+      213: -3510124767808677207
+    second: Dungeoneers Ground_739
+  - first:
+      213: -7762958881036495063
+    second: Dungeoneers Ground_740
+  - first:
+      213: 4890453147846677589
+    second: Dungeoneers Ground_741
+  - first:
+      213: -1953854017938180640
+    second: Dungeoneers Ground_742
+  - first:
+      213: 6616655012667925956
+    second: Dungeoneers Ground_743
+  - first:
+      213: 2234655449918244110
+    second: Dungeoneers Ground_744
+  - first:
+      213: -4256676918564461646
+    second: Dungeoneers Ground_745
+  - first:
+      213: 8667926038071138606
+    second: Dungeoneers Ground_746
+  - first:
+      213: 3440226834389393161
+    second: Dungeoneers Ground_747
+  - first:
+      213: 8350803973388669362
+    second: Dungeoneers Ground_748
+  - first:
+      213: 1571518279927577113
+    second: Dungeoneers Ground_749
+  - first:
+      213: -4112339326514976442
+    second: Dungeoneers Ground_750
+  - first:
+      213: -2161811921360673778
+    second: Dungeoneers Ground_751
+  - first:
+      213: -7145411362498327556
+    second: Dungeoneers Ground_752
+  - first:
+      213: -3861988547240966189
+    second: Dungeoneers Ground_753
+  - first:
+      213: -1398184099677949174
+    second: Dungeoneers Ground_754
+  - first:
+      213: 9137832082788102072
+    second: Dungeoneers Ground_755
+  - first:
+      213: -99045418435613804
+    second: Dungeoneers Ground_756
+  - first:
+      213: -3909465937980562707
+    second: Dungeoneers Ground_757
+  - first:
+      213: 1828984406636077133
+    second: Dungeoneers Ground_758
+  - first:
+      213: 8150435680513333019
+    second: Dungeoneers Ground_759
+  - first:
+      213: 1638980242669684046
+    second: Dungeoneers Ground_760
+  - first:
+      213: 3283871053722938361
+    second: Dungeoneers Ground_761
+  - first:
+      213: -4388796716830074577
+    second: Dungeoneers Ground_762
+  - first:
+      213: -3993896162244483179
+    second: Dungeoneers Ground_763
+  - first:
+      213: -563040476757404012
+    second: Dungeoneers Ground_764
+  - first:
+      213: -7352197367010107882
+    second: Dungeoneers Ground_765
+  - first:
+      213: -8325073275861583547
+    second: Dungeoneers Ground_766
+  - first:
+      213: -8248668674525628834
+    second: Dungeoneers Ground_767
+  - first:
+      213: 4605083969795607752
+    second: Dungeoneers Ground_768
+  - first:
+      213: -7412164461265037949
+    second: Dungeoneers Ground_769
+  - first:
+      213: -2522472453921560312
+    second: Dungeoneers Ground_770
+  - first:
+      213: 2319282388150387834
+    second: Dungeoneers Ground_771
+  - first:
+      213: -8207579361879104122
+    second: Dungeoneers Ground_772
+  - first:
+      213: -5527640462076160548
+    second: Dungeoneers Ground_773
+  - first:
+      213: 5790306766082771532
+    second: Dungeoneers Ground_774
+  - first:
+      213: -2159760756931769394
+    second: Dungeoneers Ground_775
+  - first:
+      213: 6648263807307906491
+    second: Dungeoneers Ground_776
+  - first:
+      213: -5851942737495032066
+    second: Dungeoneers Ground_777
+  - first:
+      213: 2038233943244709965
+    second: Dungeoneers Ground_778
+  - first:
+      213: 2649630888830106614
+    second: Dungeoneers Ground_779
+  - first:
+      213: 1298912683772479161
+    second: Dungeoneers Ground_780
+  - first:
+      213: -592259845302062978
+    second: Dungeoneers Ground_781
+  - first:
+      213: 7683137856779603894
+    second: Dungeoneers Ground_782
+  - first:
+      213: 1039380575036923772
+    second: Dungeoneers Ground_783
+  - first:
+      213: -3934758405882364252
+    second: Dungeoneers Ground_784
+  - first:
+      213: 3715038804659129861
+    second: Dungeoneers Ground_785
+  - first:
+      213: -6480339547099822682
+    second: Dungeoneers Ground_786
+  - first:
+      213: -2025582484178599447
+    second: Dungeoneers Ground_787
+  - first:
+      213: -5835340755761907207
+    second: Dungeoneers Ground_788
+  - first:
+      213: -6454336418106007347
+    second: Dungeoneers Ground_789
+  - first:
+      213: 7978276452359423034
+    second: Dungeoneers Ground_790
+  - first:
+      213: 1333298585631256450
+    second: Dungeoneers Ground_791
+  - first:
+      213: -3883897837060733381
+    second: Dungeoneers Ground_792
+  - first:
+      213: -4474720174010351090
+    second: Dungeoneers Ground_793
+  - first:
+      213: 7220541342081560
+    second: Dungeoneers Ground_794
+  - first:
+      213: -7763830247272052822
+    second: Dungeoneers Ground_795
+  - first:
+      213: 1287560395800421842
+    second: Dungeoneers Ground_796
+  - first:
+      213: -7020334827733376857
+    second: Dungeoneers Ground_797
+  - first:
+      213: -4751062843365763696
+    second: Dungeoneers Ground_798
+  - first:
+      213: 6759268878845332562
+    second: Dungeoneers Ground_799
+  - first:
+      213: -4349953139835755469
+    second: Dungeoneers Ground_800
+  - first:
+      213: 4335008895627266033
+    second: Dungeoneers Ground_801
+  - first:
+      213: 6521167179874811678
+    second: Dungeoneers Ground_802
+  - first:
+      213: 4511780107005313048
+    second: Dungeoneers Ground_803
+  - first:
+      213: -1387807998770027607
+    second: Dungeoneers Ground_804
+  - first:
+      213: 7675436514447967260
+    second: Dungeoneers Ground_805
+  - first:
+      213: 4937524672132819963
+    second: Dungeoneers Ground_806
+  - first:
+      213: -4323408691599166772
+    second: Dungeoneers Ground_807
+  - first:
+      213: 5222690399910505757
+    second: Dungeoneers Ground_808
+  - first:
+      213: 550811951137691256
+    second: Dungeoneers Ground_809
+  - first:
+      213: 8200473507231372917
+    second: Dungeoneers Ground_810
+  - first:
+      213: 6296080075283713646
+    second: Dungeoneers Ground_811
+  - first:
+      213: 3514637923226328689
+    second: Dungeoneers Ground_812
+  - first:
+      213: -8269319342531087311
+    second: Dungeoneers Ground_813
+  - first:
+      213: -398510790642187562
+    second: Dungeoneers Ground_814
+  - first:
+      213: -7887339075117887766
+    second: Dungeoneers Ground_815
+  - first:
+      213: 3444864100500398223
+    second: Dungeoneers Ground_816
+  - first:
+      213: -302191221891763334
+    second: Dungeoneers Ground_817
+  - first:
+      213: -6656788267115256567
+    second: Dungeoneers Ground_818
+  - first:
+      213: 8935979290098360740
+    second: Dungeoneers Ground_819
+  - first:
+      213: -5755295201007598882
+    second: Dungeoneers Ground_820
+  - first:
+      213: -6646423413724427357
+    second: Dungeoneers Ground_821
+  - first:
+      213: -8089243732046539758
+    second: Dungeoneers Ground_822
+  - first:
+      213: 8736946679831778172
+    second: Dungeoneers Ground_823
+  - first:
+      213: -2745467283636692963
+    second: Dungeoneers Ground_824
+  - first:
+      213: -8460639356474796220
+    second: Dungeoneers Ground_825
+  - first:
+      213: -4027307286685737707
+    second: Dungeoneers Ground_826
+  - first:
+      213: -3770997419528090991
+    second: Dungeoneers Ground_827
+  - first:
+      213: 9161583084566776940
+    second: Dungeoneers Ground_828
+  - first:
+      213: -7185520382388428433
+    second: Dungeoneers Ground_829
+  - first:
+      213: -3130975866436621686
+    second: Dungeoneers Ground_830
+  - first:
+      213: 3533883805410939640
+    second: Dungeoneers Ground_831
+  - first:
+      213: 2296468500353105359
+    second: Dungeoneers Ground_832
+  - first:
+      213: 7144868563233532098
+    second: Dungeoneers Ground_833
+  - first:
+      213: -4743488116532762735
+    second: Dungeoneers Ground_834
+  - first:
+      213: 2156636600997477966
+    second: Dungeoneers Ground_835
+  - first:
+      213: 1232771147631437796
+    second: Dungeoneers Ground_836
+  - first:
+      213: 2468948533882389405
+    second: Dungeoneers Ground_837
+  - first:
+      213: 7356491299014298435
+    second: Dungeoneers Ground_838
+  - first:
+      213: -6459613960441884315
+    second: Dungeoneers Ground_839
+  - first:
+      213: -229043182402888718
+    second: Dungeoneers Ground_840
+  - first:
+      213: 5560891325875370046
+    second: Dungeoneers Ground_841
+  - first:
+      213: 1081860618563661812
+    second: Dungeoneers Ground_842
+  - first:
+      213: -5572953021671464602
+    second: Dungeoneers Ground_843
+  - first:
+      213: -6541061606744199182
+    second: Dungeoneers Ground_844
+  - first:
+      213: -5970757699017534898
+    second: Dungeoneers Ground_845
+  - first:
+      213: -1006481717655455578
+    second: Dungeoneers Ground_846
+  - first:
+      213: -1958283315595068152
+    second: Dungeoneers Ground_847
+  - first:
+      213: 7158711590309770310
+    second: Dungeoneers Ground_848
+  - first:
+      213: 5806880994504391463
+    second: Dungeoneers Ground_849
+  - first:
+      213: 2874444384807565709
+    second: Dungeoneers Ground_850
+  - first:
+      213: -4936016773466607783
+    second: Dungeoneers Ground_851
+  - first:
+      213: -2084075968485155540
+    second: Dungeoneers Ground_852
+  - first:
+      213: 6754292897315317454
+    second: Dungeoneers Ground_853
+  - first:
+      213: 6910522601258177914
+    second: Dungeoneers Ground_854
+  - first:
+      213: -6163881932730580231
+    second: Dungeoneers Ground_855
+  - first:
+      213: -5105897539745758002
+    second: Dungeoneers Ground_856
+  - first:
+      213: 816148864463900002
+    second: Dungeoneers Ground_857
+  - first:
+      213: -8610477114478227106
+    second: Dungeoneers Ground_858
+  - first:
+      213: -3321550083554831848
+    second: Dungeoneers Ground_859
+  - first:
+      213: -6416529026211658217
+    second: Dungeoneers Ground_860
+  - first:
+      213: 6981768561089410511
+    second: Dungeoneers Ground_861
+  - first:
+      213: -8326629080708773391
+    second: Dungeoneers Ground_862
+  - first:
+      213: 9034996866788904670
+    second: Dungeoneers Ground_863
+  - first:
+      213: -5620764372625857795
+    second: Dungeoneers Ground_864
+  - first:
+      213: 1515548765971275668
+    second: Dungeoneers Ground_865
+  - first:
+      213: -8362566288751297401
+    second: Dungeoneers Ground_866
+  - first:
+      213: 403023268249647085
+    second: Dungeoneers Ground_867
+  - first:
+      213: 1780571476048843572
+    second: Dungeoneers Ground_868
+  - first:
+      213: 1023292040556669708
+    second: Dungeoneers Ground_869
+  - first:
+      213: 6679849237298132571
+    second: Dungeoneers Ground_870
+  - first:
+      213: -1944819626905666204
+    second: Dungeoneers Ground_871
+  - first:
+      213: -4777825826967985620
+    second: Dungeoneers Ground_872
+  - first:
+      213: -6777632667181333499
+    second: Dungeoneers Ground_873
+  - first:
+      213: -2943569766939729729
+    second: Dungeoneers Ground_874
+  - first:
+      213: 5461574076538526832
+    second: Dungeoneers Ground_875
+  - first:
+      213: 302662781331248797
+    second: Dungeoneers Ground_876
+  - first:
+      213: -8579924019314216046
+    second: Dungeoneers Ground_877
+  - first:
+      213: -3527827423434250055
+    second: Dungeoneers Ground_878
+  - first:
+      213: -3263864699010419489
+    second: Dungeoneers Ground_879
+  - first:
+      213: 5089786625404481705
+    second: Dungeoneers Ground_880
+  - first:
+      213: -19154308164116231
+    second: Dungeoneers Ground_881
+  - first:
+      213: 7850043808186500906
+    second: Dungeoneers Ground_882
+  - first:
+      213: 3595705410431741574
+    second: Dungeoneers Ground_883
+  - first:
+      213: 1532561714723571293
+    second: Dungeoneers Ground_884
+  - first:
+      213: 4229228309192085521
+    second: Dungeoneers Ground_885
+  - first:
+      213: 5880388345229970734
+    second: Dungeoneers Ground_886
+  - first:
+      213: -7251455399304290486
+    second: Dungeoneers Ground_887
+  - first:
+      213: 2917435408867650967
+    second: Dungeoneers Ground_888
+  - first:
+      213: -5539298118552022390
+    second: Dungeoneers Ground_889
+  - first:
+      213: -3912963843782542595
+    second: Dungeoneers Ground_890
+  - first:
+      213: -24227262662072626
+    second: Dungeoneers Ground_891
+  - first:
+      213: 3260591166454520958
+    second: Dungeoneers Ground_892
+  - first:
+      213: -1346810160462338106
+    second: Dungeoneers Ground_893
+  - first:
+      213: 6958835493654407902
+    second: Dungeoneers Ground_894
+  - first:
+      213: -8557030784316073745
+    second: Dungeoneers Ground_895
+  - first:
+      213: -5486358742143366287
+    second: Dungeoneers Ground_896
+  - first:
+      213: -3549175380654845111
+    second: Dungeoneers Ground_897
+  - first:
+      213: -7406203587506154514
+    second: Dungeoneers Ground_898
+  - first:
+      213: 8090569203607398650
+    second: Dungeoneers Ground_899
+  - first:
+      213: 4833769881787460708
+    second: Dungeoneers Ground_900
+  - first:
+      213: -4215074594966427666
+    second: Dungeoneers Ground_901
+  - first:
+      213: -4086466577095989425
+    second: Dungeoneers Ground_902
+  - first:
+      213: 1444879199329927447
+    second: Dungeoneers Ground_903
+  - first:
+      213: -505072876794953246
+    second: Dungeoneers Ground_904
+  - first:
+      213: 403847995240227188
+    second: Dungeoneers Ground_905
+  - first:
+      213: -2653091769463612348
+    second: Dungeoneers Ground_906
+  - first:
+      213: 7952600904629315739
+    second: Dungeoneers Ground_907
+  - first:
+      213: 8776262372608907884
+    second: Dungeoneers Ground_908
+  - first:
+      213: 3162231926153816845
+    second: Dungeoneers Ground_909
+  - first:
+      213: 6847333616268913599
+    second: Dungeoneers Ground_910
+  - first:
+      213: -9201772158901113758
+    second: Dungeoneers Ground_911
+  - first:
+      213: -2114821355549917986
+    second: Dungeoneers Ground_912
+  - first:
+      213: 1004649893289321634
+    second: Dungeoneers Ground_913
+  - first:
+      213: 2143525002540525099
+    second: Dungeoneers Ground_914
+  - first:
+      213: -6788141122645744296
+    second: Dungeoneers Ground_915
+  - first:
+      213: -3049441169272568937
+    second: Dungeoneers Ground_916
+  - first:
+      213: 7328687641802003154
+    second: Dungeoneers Ground_917
+  - first:
+      213: 3354557177077192409
+    second: Dungeoneers Ground_918
+  - first:
+      213: 5636219940160144536
+    second: Dungeoneers Ground_919
+  - first:
+      213: -800452989483867814
+    second: Dungeoneers Ground_920
+  - first:
+      213: 7637566362864650310
+    second: Dungeoneers Ground_921
+  - first:
+      213: 2344725890589848053
+    second: Dungeoneers Ground_922
+  - first:
+      213: 2932951368616182843
+    second: Dungeoneers Ground_923
+  - first:
+      213: 1899614267095334895
+    second: Dungeoneers Ground_924
+  - first:
+      213: 5210651222113026825
+    second: Dungeoneers Ground_925
+  - first:
+      213: -6849984793633681746
+    second: Dungeoneers Ground_926
+  - first:
+      213: -7051537856875033441
+    second: Dungeoneers Ground_927
+  - first:
+      213: 2203701819079574171
+    second: Dungeoneers Ground_928
+  - first:
+      213: 2120235309663082901
+    second: Dungeoneers Ground_929
+  - first:
+      213: 3034026442396476069
+    second: Dungeoneers Ground_930
+  - first:
+      213: -5634853551386594254
+    second: Dungeoneers Ground_931
+  - first:
+      213: -7176561704182785243
+    second: Dungeoneers Ground_932
+  - first:
+      213: 3784151092995022623
+    second: Dungeoneers Ground_933
+  - first:
+      213: 8302442354366483655
+    second: Dungeoneers Ground_934
+  - first:
+      213: -3200772161400392425
+    second: Dungeoneers Ground_935
+  - first:
+      213: 3612688327032212199
+    second: Dungeoneers Ground_936
+  - first:
+      213: -1490634896507252999
+    second: Dungeoneers Ground_937
+  - first:
+      213: -4187392437349123184
+    second: Dungeoneers Ground_938
+  - first:
+      213: -4708418598744252393
+    second: Dungeoneers Ground_939
+  - first:
+      213: -4319033025636296854
+    second: Dungeoneers Ground_940
+  - first:
+      213: -7378181960296620098
+    second: Dungeoneers Ground_941
+  - first:
+      213: -8305542731814779788
+    second: Dungeoneers Ground_942
+  - first:
+      213: -7176513013789498485
+    second: Dungeoneers Ground_943
+  - first:
+      213: 5642366129384506543
+    second: Dungeoneers Ground_944
+  - first:
+      213: -3386672591386008172
+    second: Dungeoneers Ground_945
+  - first:
+      213: 1132606582923298226
+    second: Dungeoneers Ground_946
+  - first:
+      213: 4933099868356369111
+    second: Dungeoneers Ground_947
+  - first:
+      213: -1049494788835798763
+    second: Dungeoneers Ground_948
+  - first:
+      213: 7559226040139136820
+    second: Dungeoneers Ground_949
+  - first:
+      213: 2722753784941420633
+    second: Dungeoneers Ground_950
+  - first:
+      213: -4788899211208507866
+    second: Dungeoneers Ground_951
+  - first:
+      213: -359525519553589096
+    second: Dungeoneers Ground_952
+  - first:
+      213: -2283818701275507335
+    second: Dungeoneers Ground_953
+  - first:
+      213: 7059231186943673397
+    second: Dungeoneers Ground_954
+  - first:
+      213: 4648651701837396131
+    second: Dungeoneers Ground_955
+  - first:
+      213: -6424178279230261523
+    second: Dungeoneers Ground_956
+  - first:
+      213: 3944396118537791618
+    second: Dungeoneers Ground_957
+  - first:
+      213: 1607686761515059428
+    second: Dungeoneers Ground_958
+  - first:
+      213: 125595500994413946
+    second: Dungeoneers Ground_959
+  - first:
+      213: 4197654323217843985
+    second: Dungeoneers Ground_960
+  - first:
+      213: -346229283864908313
+    second: Dungeoneers Ground_961
+  - first:
+      213: 8167613931524257949
+    second: Dungeoneers Ground_962
+  - first:
+      213: -7200753173905398677
+    second: Dungeoneers Ground_963
+  - first:
+      213: 7847246482886897889
+    second: Dungeoneers Ground_964
+  - first:
+      213: -2035273392531957344
+    second: Dungeoneers Ground_965
+  - first:
+      213: 8954761238850674634
+    second: Dungeoneers Ground_966
+  - first:
+      213: 5080712504768225421
+    second: Dungeoneers Ground_967
+  - first:
+      213: 8782157478353800754
+    second: Dungeoneers Ground_968
+  - first:
+      213: 3200140520380847159
+    second: Dungeoneers Ground_969
+  - first:
+      213: 6004946038744317544
+    second: Dungeoneers Ground_970
+  - first:
+      213: 8719916651173159875
+    second: Dungeoneers Ground_971
+  - first:
+      213: 3891343156821561768
+    second: Dungeoneers Ground_972
+  - first:
+      213: 6673903399711146747
+    second: Dungeoneers Ground_973
+  - first:
+      213: -3610533215935409777
+    second: Dungeoneers Ground_974
+  - first:
+      213: -6746345223335367374
+    second: Dungeoneers Ground_975
+  - first:
+      213: -4002969004317501982
+    second: Dungeoneers Ground_976
+  - first:
+      213: 6971590541441585493
+    second: Dungeoneers Ground_977
+  - first:
+      213: -8094718081367814301
+    second: Dungeoneers Ground_978
+  - first:
+      213: -1394614476180916667
+    second: Dungeoneers Ground_979
+  - first:
+      213: 4589464656836030682
+    second: Dungeoneers Ground_980
+  - first:
+      213: -304549739127966188
+    second: Dungeoneers Ground_981
+  - first:
+      213: 3505814106102964334
+    second: Dungeoneers Ground_982
+  - first:
+      213: 2576725979870461527
+    second: Dungeoneers Ground_983
+  - first:
+      213: -1512008387346927817
+    second: Dungeoneers Ground_984
+  - first:
+      213: 4028512037750585646
+    second: Dungeoneers Ground_985
+  - first:
+      213: -7814554496472352988
+    second: Dungeoneers Ground_986
+  - first:
+      213: 144536636345830304
+    second: Dungeoneers Ground_987
+  - first:
+      213: -1249626712224780388
+    second: Dungeoneers Ground_988
+  - first:
+      213: 4332152805105558167
+    second: Dungeoneers Ground_989
+  - first:
+      213: 8399550919523638188
+    second: Dungeoneers Ground_990
+  - first:
+      213: -5293265181648155089
+    second: Dungeoneers Ground_991
+  - first:
+      213: -3756162135843731776
+    second: Dungeoneers Ground_992
+  - first:
+      213: -5152171102811065012
+    second: Dungeoneers Ground_993
+  - first:
+      213: 1068557798470156399
+    second: Dungeoneers Ground_994
+  - first:
+      213: -2478579571580567099
+    second: Dungeoneers Ground_995
+  - first:
+      213: 6996431257836364112
+    second: Dungeoneers Ground_996
+  - first:
+      213: 2403329895232636808
+    second: Dungeoneers Ground_997
+  - first:
+      213: -6319426649459750355
+    second: Dungeoneers Ground_998
+  - first:
+      213: -4282046854648914271
+    second: Dungeoneers Ground_999
+  - first:
+      213: 8023626783965646305
+    second: Dungeoneers Ground_1000
+  - first:
+      213: -6739764186198884667
+    second: Dungeoneers Ground_1001
+  - first:
+      213: -1456210230751142384
+    second: Dungeoneers Ground_1002
+  - first:
+      213: -3004120597019363485
+    second: Dungeoneers Ground_1003
+  - first:
+      213: -1350837394970275058
+    second: Dungeoneers Ground_1004
+  - first:
+      213: 888872252679551003
+    second: Dungeoneers Ground_1005
+  - first:
+      213: 2713922181976066041
+    second: Dungeoneers Ground_1006
+  - first:
+      213: 6569093437527705874
+    second: Dungeoneers Ground_1007
+  - first:
+      213: 533613556725070032
+    second: Dungeoneers Ground_1008
+  - first:
+      213: 318201239557920256
+    second: Dungeoneers Ground_1009
+  - first:
+      213: 6117114924635352758
+    second: Dungeoneers Ground_1010
+  - first:
+      213: 7092203706813950931
+    second: Dungeoneers Ground_1011
+  - first:
+      213: -2822997896177583331
+    second: Dungeoneers Ground_1012
+  - first:
+      213: 3804354195676945724
+    second: Dungeoneers Ground_1013
+  - first:
+      213: -1435684911027451574
+    second: Dungeoneers Ground_1014
+  - first:
+      213: 300234171289751821
+    second: Dungeoneers Ground_1015
+  - first:
+      213: -3126119873655708735
+    second: Dungeoneers Ground_1016
+  - first:
+      213: -413848515711667745
+    second: Dungeoneers Ground_1017
+  - first:
+      213: 8576082361815944068
+    second: Dungeoneers Ground_1018
+  - first:
+      213: 4690788057697217087
+    second: Dungeoneers Ground_1019
+  - first:
+      213: -8540773333106454902
+    second: Dungeoneers Ground_1020
+  - first:
+      213: 7064737076157534389
+    second: Dungeoneers Ground_1021
+  - first:
+      213: 8407158440640301925
+    second: Dungeoneers Ground_1022
+  - first:
+      213: -8493658176478468291
+    second: Dungeoneers Ground_1023
+  - first:
+      213: 4494041851794543161
+    second: Dungeoneers Ground_1024
+  - first:
+      213: 8508112850375757002
+    second: Dungeoneers Ground_1025
+  - first:
+      213: 2150644047383772512
+    second: Dungeoneers Ground_1026
+  - first:
+      213: 1621207396112252722
+    second: Dungeoneers Ground_1027
+  - first:
+      213: -7512163350741350359
+    second: Dungeoneers Ground_1028
+  - first:
+      213: 192301156216418769
+    second: Dungeoneers Ground_1029
+  - first:
+      213: 8815339617775492557
+    second: Dungeoneers Ground_1030
+  - first:
+      213: 4154198746542901953
+    second: Dungeoneers Ground_1031
+  - first:
+      213: -3693030356211553567
+    second: Dungeoneers Ground_1032
+  - first:
+      213: -2698876590002156642
+    second: Dungeoneers Ground_1033
+  - first:
+      213: -1486981299337940208
+    second: Dungeoneers Ground_1034
+  - first:
+      213: -8717029595652133940
+    second: Dungeoneers Ground_1035
+  - first:
+      213: 4197419911457482421
+    second: Dungeoneers Ground_1036
+  - first:
+      213: 5767526231927247266
+    second: Dungeoneers Ground_1037
+  - first:
+      213: 6986959393120557535
+    second: Dungeoneers Ground_1038
+  - first:
+      213: -310456681317470920
+    second: Dungeoneers Ground_1039
+  - first:
+      213: 9048940370966324164
+    second: Dungeoneers Ground_1040
+  - first:
+      213: -3658730742873692979
+    second: Dungeoneers Ground_1041
+  - first:
+      213: 5504369991084107006
+    second: Dungeoneers Ground_1042
+  - first:
+      213: -2391091782089115926
+    second: Dungeoneers Ground_1043
+  - first:
+      213: -2866950573183533586
+    second: Dungeoneers Ground_1044
+  - first:
+      213: -5224054074383371779
+    second: Dungeoneers Ground_1045
+  - first:
+      213: 2060110267510315398
+    second: Dungeoneers Ground_1046
+  - first:
+      213: 3661358712560000238
+    second: Dungeoneers Ground_1047
+  - first:
+      213: 7720175814696436150
+    second: Dungeoneers Ground_1048
+  - first:
+      213: -8767450713991493220
+    second: Dungeoneers Ground_1049
+  - first:
+      213: -8674559473719144186
+    second: Dungeoneers Ground_1050
+  - first:
+      213: -764043291248252388
+    second: Dungeoneers Ground_1051
+  - first:
+      213: 1066929676832543618
+    second: Dungeoneers Ground_1052
+  - first:
+      213: -6534764765491583903
+    second: Dungeoneers Ground_1053
+  - first:
+      213: -665954552940800149
+    second: Dungeoneers Ground_1054
+  - first:
+      213: 5776161991070719066
+    second: Dungeoneers Ground_1055
+  - first:
+      213: -720279365916264202
+    second: Dungeoneers Ground_1056
+  - first:
+      213: 4501898742933951061
+    second: Dungeoneers Ground_1057
+  - first:
+      213: 1650561949819548774
+    second: Dungeoneers Ground_1058
+  - first:
+      213: -7953483671237191401
+    second: Dungeoneers Ground_1059
+  - first:
+      213: 5805012533473475024
+    second: Dungeoneers Ground_1060
+  - first:
+      213: 5919235248832504172
+    second: Dungeoneers Ground_1061
+  - first:
+      213: -5387543979392909161
+    second: Dungeoneers Ground_1062
+  - first:
+      213: -8920192103525856752
+    second: Dungeoneers Ground_1063
+  - first:
+      213: -2909751393832147600
+    second: Dungeoneers Ground_1064
+  - first:
+      213: -4471399108381461375
+    second: Dungeoneers Ground_1065
+  - first:
+      213: 6447150567824966533
+    second: Dungeoneers Ground_1066
+  - first:
+      213: 2684837643219669644
+    second: Dungeoneers Ground_1067
+  - first:
+      213: -8859198890254471676
+    second: Dungeoneers Ground_1068
+  - first:
+      213: -956581980027638438
+    second: Dungeoneers Ground_1069
+  - first:
+      213: -2952737473608189664
+    second: Dungeoneers Ground_1070
+  - first:
+      213: -9154535443886803624
+    second: Dungeoneers Ground_1071
+  - first:
+      213: 3006035287765298121
+    second: Dungeoneers Ground_1072
+  - first:
+      213: 1948987813784628455
+    second: Dungeoneers Ground_1073
+  - first:
+      213: 9022659281248906195
+    second: Dungeoneers Ground_1074
+  - first:
+      213: -6566609325736115986
+    second: Dungeoneers Ground_1075
+  - first:
+      213: 2864440820702265781
+    second: Dungeoneers Ground_1076
+  - first:
+      213: 3960104412267096966
+    second: Dungeoneers Ground_1077
+  - first:
+      213: -3066369671583827090
+    second: Dungeoneers Ground_1078
+  - first:
+      213: -9185440109256530153
+    second: Dungeoneers Ground_1079
+  - first:
+      213: 8515782069492933447
+    second: Dungeoneers Ground_1080
+  - first:
+      213: -8407009867136992706
+    second: Dungeoneers Ground_1081
+  - first:
+      213: 260822792575452778
+    second: Dungeoneers Ground_1082
+  - first:
+      213: -7636309715453273471
+    second: Dungeoneers Ground_1083
+  - first:
+      213: -2494272215854560084
+    second: Dungeoneers Ground_1084
+  - first:
+      213: -8364941392920915559
+    second: Dungeoneers Ground_1085
+  - first:
+      213: -3287157652481287350
+    second: Dungeoneers Ground_1086
+  - first:
+      213: 5132199791831925892
+    second: Dungeoneers Ground_1087
+  - first:
+      213: -60166106098866906
+    second: Dungeoneers Ground_1088
+  - first:
+      213: -7224134139790082305
+    second: Dungeoneers Ground_1089
+  - first:
+      213: 872693713164762894
+    second: Dungeoneers Ground_1090
+  - first:
+      213: 5347822462117159270
+    second: Dungeoneers Ground_1091
+  - first:
+      213: 5224861332863247822
+    second: Dungeoneers Ground_1092
+  - first:
+      213: -5081861372651006534
+    second: Dungeoneers Ground_1093
+  - first:
+      213: 1533123124393707688
+    second: Dungeoneers Ground_1094
+  - first:
+      213: -1358782025003104588
+    second: Dungeoneers Ground_1095
+  - first:
+      213: 7309519330571271093
+    second: Dungeoneers Ground_1096
+  - first:
+      213: 4819900176943206829
+    second: Dungeoneers Ground_1097
+  - first:
+      213: -3005140803073954761
+    second: Dungeoneers Ground_1098
+  - first:
+      213: -7701968907310556604
+    second: Dungeoneers Ground_1099
+  - first:
+      213: -531362926075236044
+    second: Dungeoneers Ground_1100
+  - first:
+      213: -8089273452127751870
+    second: Dungeoneers Ground_1101
+  - first:
+      213: -1624460901445863469
+    second: Dungeoneers Ground_1102
+  - first:
+      213: -1786363240555286195
+    second: Dungeoneers Ground_1103
+  - first:
+      213: -4341919893176814846
+    second: Dungeoneers Ground_1104
+  - first:
+      213: -6608143331829241089
+    second: Dungeoneers Ground_1105
+  - first:
+      213: 9113362321158955707
+    second: Dungeoneers Ground_1106
+  - first:
+      213: -7604077310533868023
+    second: Dungeoneers Ground_1107
+  - first:
+      213: 1273754609525537701
+    second: Dungeoneers Ground_1108
+  - first:
+      213: 1438422340598127133
+    second: Dungeoneers Ground_1109
+  - first:
+      213: 7011783832770765142
+    second: Dungeoneers Ground_1110
+  - first:
+      213: -8950811862225497416
+    second: Dungeoneers Ground_1111
+  - first:
+      213: 1427985987209200739
+    second: Dungeoneers Ground_1112
+  - first:
+      213: 273608172416687711
+    second: Dungeoneers Ground_1113
+  - first:
+      213: -6625012738855673815
+    second: Dungeoneers Ground_1114
+  - first:
+      213: 4594248489485081838
+    second: Dungeoneers Ground_1115
+  - first:
+      213: -6273492526715633226
+    second: Dungeoneers Ground_1116
+  - first:
+      213: -545940009405179454
+    second: Dungeoneers Ground_1117
+  - first:
+      213: -318595913037891639
+    second: Dungeoneers Ground_1118
+  - first:
+      213: 4789733240425698534
+    second: Dungeoneers Ground_1119
+  - first:
+      213: 954756938377878115
+    second: Dungeoneers Ground_1120
+  - first:
+      213: 6779835401334812300
+    second: Dungeoneers Ground_1121
+  - first:
+      213: -8529971183256626684
+    second: Dungeoneers Ground_1122
+  - first:
+      213: 7933165176860023993
+    second: Dungeoneers Ground_1123
+  - first:
+      213: 1266163081980953546
+    second: Dungeoneers Ground_1124
+  - first:
+      213: -6694645927837585660
+    second: Dungeoneers Ground_1125
+  - first:
+      213: 3549789702498243286
+    second: Dungeoneers Ground_1126
+  - first:
+      213: -563492927502170402
+    second: Dungeoneers Ground_1127
+  - first:
+      213: 8609601040509700795
+    second: Dungeoneers Ground_1128
+  - first:
+      213: 5602945803857356311
+    second: Dungeoneers Ground_1129
+  - first:
+      213: -7987125974442641103
+    second: Dungeoneers Ground_1130
+  - first:
+      213: 174982685308362004
+    second: Dungeoneers Ground_1131
+  - first:
+      213: -2535465546755910830
+    second: Dungeoneers Ground_1132
+  - first:
+      213: -8881793710945253112
+    second: Dungeoneers Ground_1133
+  - first:
+      213: -8609341526406060111
+    second: Dungeoneers Ground_1134
+  - first:
+      213: -5173794705909602016
+    second: Dungeoneers Ground_1135
+  - first:
+      213: -7841635737770866298
+    second: Dungeoneers Ground_1136
+  - first:
+      213: -297596211679425695
+    second: Dungeoneers Ground_1137
+  - first:
+      213: 7792177521057455001
+    second: Dungeoneers Ground_1138
+  - first:
+      213: -8916482474307807082
+    second: Dungeoneers Ground_1139
+  - first:
+      213: 4384105478070642607
+    second: Dungeoneers Ground_1140
+  - first:
+      213: 9109622275372412127
+    second: Dungeoneers Ground_1141
+  - first:
+      213: -6251268161961175202
+    second: Dungeoneers Ground_1142
+  - first:
+      213: -3358557757053780378
+    second: Dungeoneers Ground_1143
+  - first:
+      213: 1149267519201992280
+    second: Dungeoneers Ground_1144
+  - first:
+      213: 2551225060555152309
+    second: Dungeoneers Ground_1145
+  - first:
+      213: -3094055375152742197
+    second: Dungeoneers Ground_1146
+  - first:
+      213: -6471296275698915125
+    second: Dungeoneers Ground_1147
+  - first:
+      213: 7424504554196596697
+    second: Dungeoneers Ground_1148
+  - first:
+      213: 3447299361453289186
+    second: Dungeoneers Ground_1149
+  - first:
+      213: -4516014066452086522
+    second: Dungeoneers Ground_1150
+  - first:
+      213: -2933291243423993104
+    second: Dungeoneers Ground_1151
+  - first:
+      213: 1458448874072291209
+    second: Dungeoneers Ground_1152
+  - first:
+      213: -5554302299418322562
+    second: Dungeoneers Ground_1153
+  - first:
+      213: -1568312827945831245
+    second: Dungeoneers Ground_1154
+  - first:
+      213: -3298692465548419472
+    second: Dungeoneers Ground_1155
+  - first:
+      213: 3379040913776209150
+    second: Dungeoneers Ground_1156
+  - first:
+      213: 1089055425035694602
+    second: Dungeoneers Ground_1157
+  - first:
+      213: -7217048404645597873
+    second: Dungeoneers Ground_1158
+  - first:
+      213: 8525140710931406492
+    second: Dungeoneers Ground_1159
+  - first:
+      213: 3997326239410446604
+    second: Dungeoneers Ground_1160
+  - first:
+      213: 527364519273895045
+    second: Dungeoneers Ground_1161
+  - first:
+      213: 796291308877516068
+    second: Dungeoneers Ground_1162
+  - first:
+      213: 8269612564552411728
+    second: Dungeoneers Ground_1163
+  - first:
+      213: 4726257503181801732
+    second: Dungeoneers Ground_1164
+  - first:
+      213: 2141403114132351808
+    second: Dungeoneers Ground_1165
+  - first:
+      213: -3222900206087532951
+    second: Dungeoneers Ground_1166
+  - first:
+      213: -7824534282851460590
+    second: Dungeoneers Ground_1167
+  - first:
+      213: -1070407595318269853
+    second: Dungeoneers Ground_1168
+  - first:
+      213: -5772044688076453443
+    second: Dungeoneers Ground_1169
+  - first:
+      213: -7624460069329824708
+    second: Dungeoneers Ground_1170
+  - first:
+      213: -2471904146190488841
+    second: Dungeoneers Ground_1171
+  - first:
+      213: -7128376676058092730
+    second: Dungeoneers Ground_1172
+  - first:
+      213: 3621739104315013600
+    second: Dungeoneers Ground_1173
+  - first:
+      213: 7486371198501943318
+    second: Dungeoneers Ground_1174
+  - first:
+      213: -184653070458985252
+    second: Dungeoneers Ground_1175
+  - first:
+      213: -1053885930297139829
+    second: Dungeoneers Ground_1176
+  - first:
+      213: -151155123739298390
+    second: Dungeoneers Ground_1177
+  - first:
+      213: -1804060523622640413
+    second: Dungeoneers Ground_1178
+  - first:
+      213: 6614049058368860435
+    second: Dungeoneers Ground_1179
+  - first:
+      213: 2971671279245268721
+    second: Dungeoneers Ground_1180
+  - first:
+      213: 2777193641238833692
+    second: Dungeoneers Ground_1181
+  - first:
+      213: 336037847569980738
+    second: Dungeoneers Ground_1182
+  - first:
+      213: -1514772327638798861
+    second: Dungeoneers Ground_1183
+  - first:
+      213: 2830332877863940725
+    second: Dungeoneers Ground_1184
+  - first:
+      213: -500470002954272969
+    second: Dungeoneers Ground_1185
+  - first:
+      213: 6211969230609483653
+    second: Dungeoneers Ground_1186
+  - first:
+      213: -4208560488873052552
+    second: Dungeoneers Ground_1187
+  - first:
+      213: -2368671225555585905
+    second: Dungeoneers Ground_1188
+  - first:
+      213: 2992021692557147142
+    second: Dungeoneers Ground_1189
+  - first:
+      213: 7457438654180645009
+    second: Dungeoneers Ground_1190
+  - first:
+      213: 1805702592150289057
+    second: Dungeoneers Ground_1191
+  - first:
+      213: 2413816064580971081
+    second: Dungeoneers Ground_1192
+  - first:
+      213: 2136622338546381732
+    second: Dungeoneers Ground_1193
+  - first:
+      213: -2371973514720058584
+    second: Dungeoneers Ground_1194
+  - first:
+      213: 1291981252955842121
+    second: Dungeoneers Ground_1195
+  - first:
+      213: -8052291404838988283
+    second: Dungeoneers Ground_1196
+  - first:
+      213: -2644932467477921047
+    second: Dungeoneers Ground_1197
+  - first:
+      213: -2702932407636975069
+    second: Dungeoneers Ground_1198
+  - first:
+      213: -7638068605554912193
+    second: Dungeoneers Ground_1199
+  - first:
+      213: 2431717054873870316
+    second: Dungeoneers Ground_1200
+  - first:
+      213: 6491610367572326450
+    second: Dungeoneers Ground_1201
+  - first:
+      213: -7268735707416799778
+    second: Dungeoneers Ground_1202
+  - first:
+      213: 8650341005673231783
+    second: Dungeoneers Ground_1203
+  - first:
+      213: 371752263785096023
+    second: Dungeoneers Ground_1204
+  - first:
+      213: -383007688747484856
+    second: Dungeoneers Ground_1205
+  - first:
+      213: -519844006597262936
+    second: Dungeoneers Ground_1206
+  - first:
+      213: -1306295115255304572
+    second: Dungeoneers Ground_1207
+  - first:
+      213: 5143072968800485977
+    second: Dungeoneers Ground_1208
+  - first:
+      213: -3896705199775277489
+    second: Dungeoneers Ground_1209
+  - first:
+      213: -3111458873278160120
+    second: Dungeoneers Ground_1210
+  - first:
+      213: 7291474036078669795
+    second: Dungeoneers Ground_1211
+  - first:
+      213: 5163075488422792092
+    second: Dungeoneers Ground_1212
+  - first:
+      213: 2084955250068222056
+    second: Dungeoneers Ground_1213
+  - first:
+      213: -5919132023511531171
+    second: Dungeoneers Ground_1214
+  - first:
+      213: 838738890942550652
+    second: Dungeoneers Ground_1215
+  - first:
+      213: -3933407053283272710
+    second: Dungeoneers Ground_1216
+  - first:
+      213: 1649149348361414168
+    second: Dungeoneers Ground_1217
+  - first:
+      213: -7630457139871463655
+    second: Dungeoneers Ground_1218
+  - first:
+      213: -729674361762255082
+    second: Dungeoneers Ground_1219
+  - first:
+      213: -4605964414555065595
+    second: Dungeoneers Ground_1220
+  - first:
+      213: 8665013775850919023
+    second: Dungeoneers Ground_1221
+  - first:
+      213: 5419472433063586847
+    second: Dungeoneers Ground_1222
+  - first:
+      213: -5830106335368976742
+    second: Dungeoneers Ground_1223
+  - first:
+      213: 8338207693912993622
+    second: Dungeoneers Ground_1224
+  - first:
+      213: 5973522913213063961
+    second: Dungeoneers Ground_1225
+  - first:
+      213: 8023671566208923711
+    second: Dungeoneers Ground_1226
+  - first:
+      213: -7098650878920429695
+    second: Dungeoneers Ground_1227
+  - first:
+      213: 7104264692682772628
+    second: Dungeoneers Ground_1228
+  - first:
+      213: -4884586601597528212
+    second: Dungeoneers Ground_1229
+  - first:
+      213: -7907969816159540595
+    second: Dungeoneers Ground_1230
+  - first:
+      213: -209664620587111996
+    second: Dungeoneers Ground_1231
+  - first:
+      213: 2657140521073596863
+    second: Dungeoneers Ground_1232
+  - first:
+      213: 4486368612140133752
+    second: Dungeoneers Ground_1233
+  - first:
+      213: 7651254574921714594
+    second: Dungeoneers Ground_1234
+  - first:
+      213: -4738078623860662124
+    second: Dungeoneers Ground_1235
+  - first:
+      213: -3588918080038966074
+    second: Dungeoneers Ground_1236
+  - first:
+      213: 3912504121846664636
+    second: Dungeoneers Ground_1237
+  - first:
+      213: -2334702320277106921
+    second: Dungeoneers Ground_1238
+  - first:
+      213: 179876822172477257
+    second: Dungeoneers Ground_1239
+  - first:
+      213: -5151839978776272838
+    second: Dungeoneers Ground_1240
+  - first:
+      213: -6088351927515585613
+    second: Dungeoneers Ground_1241
+  - first:
+      213: -2363259624015539768
+    second: Dungeoneers Ground_1242
+  - first:
+      213: 2592515135882099535
+    second: Dungeoneers Ground_1243
+  - first:
+      213: -3417389446734467793
+    second: Dungeoneers Ground_1244
+  - first:
+      213: -6619826739298988616
+    second: Dungeoneers Ground_1245
+  - first:
+      213: 411366485754452622
+    second: Dungeoneers Ground_1246
+  - first:
+      213: -4844114162028937610
+    second: Dungeoneers Ground_1247
+  - first:
+      213: 2544949474034604921
+    second: Dungeoneers Ground_1248
+  - first:
+      213: -8066396173492467172
+    second: Dungeoneers Ground_1249
+  - first:
+      213: -1582982702897112538
+    second: Dungeoneers Ground_1250
+  - first:
+      213: -4480315413864917337
+    second: Dungeoneers Ground_1251
+  - first:
+      213: 4687213873717060902
+    second: Dungeoneers Ground_1252
+  - first:
+      213: -2949881403378430615
+    second: Dungeoneers Ground_1253
+  - first:
+      213: -3908191987932926858
+    second: Dungeoneers Ground_1254
+  - first:
+      213: 4802405077682922952
+    second: Dungeoneers Ground_1255
+  - first:
+      213: 1992433988204944830
+    second: Dungeoneers Ground_1256
+  - first:
+      213: -6620672888182079404
+    second: Dungeoneers Ground_1257
+  - first:
+      213: -364878134905824400
+    second: Dungeoneers Ground_1258
+  - first:
+      213: 7182602094126210436
+    second: Dungeoneers Ground_1259
+  - first:
+      213: -7706532512235510901
+    second: Dungeoneers Ground_1260
+  - first:
+      213: -6797286096456167026
+    second: Dungeoneers Ground_1261
+  - first:
+      213: -3986496145017737134
+    second: Dungeoneers Ground_1262
+  - first:
+      213: 3116693926460532898
+    second: Dungeoneers Ground_1263
+  - first:
+      213: 4755328576610708062
+    second: Dungeoneers Ground_1264
+  - first:
+      213: -4775163089693138102
+    second: Dungeoneers Ground_1265
+  - first:
+      213: 8445521992350234182
+    second: Dungeoneers Ground_1266
+  - first:
+      213: 5102548386495160851
+    second: Dungeoneers Ground_1267
+  - first:
+      213: -1234836714927355906
+    second: Dungeoneers Ground_1268
+  - first:
+      213: 3633184416791340819
+    second: Dungeoneers Ground_1269
+  - first:
+      213: -7664811756342910660
+    second: Dungeoneers Ground_1270
+  - first:
+      213: -9106571867866126103
+    second: Dungeoneers Ground_1271
+  - first:
+      213: 1392039641645877086
+    second: Dungeoneers Ground_1272
+  - first:
+      213: 7879130890277934229
+    second: Dungeoneers Ground_1273
+  - first:
+      213: -5670280803989353754
+    second: Dungeoneers Ground_1274
+  - first:
+      213: 2801009108215595931
+    second: Dungeoneers Ground_1275
+  - first:
+      213: 7867835306360232352
+    second: Dungeoneers Ground_1276
+  - first:
+      213: 5550882647295442292
+    second: Dungeoneers Ground_1277
+  - first:
+      213: -5117017901494299193
+    second: Dungeoneers Ground_1278
+  - first:
+      213: 6364807609655395855
+    second: Dungeoneers Ground_1279
+  - first:
+      213: 1364598536309386018
+    second: Dungeoneers Ground_1280
+  - first:
+      213: 1641605443267754204
+    second: Dungeoneers Ground_1281
+  - first:
+      213: -2176598707462446359
+    second: Dungeoneers Ground_1282
+  - first:
+      213: 3430914022199647018
+    second: Dungeoneers Ground_1283
+  - first:
+      213: 6291996929232408499
+    second: Dungeoneers Ground_1284
+  - first:
+      213: 7433962883998512748
+    second: Dungeoneers Ground_1285
+  - first:
+      213: -4095723918546929540
+    second: Dungeoneers Ground_1286
+  - first:
+      213: -6175858727366907129
+    second: Dungeoneers Ground_1287
+  - first:
+      213: -5113409776531163287
+    second: Dungeoneers Ground_1288
+  - first:
+      213: -8911559545573252359
+    second: Dungeoneers Ground_1289
+  - first:
+      213: 2767538229849770419
+    second: Dungeoneers Ground_1290
+  - first:
+      213: 4957894206571620781
+    second: Dungeoneers Ground_1291
+  - first:
+      213: 2456985946451482939
+    second: Dungeoneers Ground_1292
+  - first:
+      213: -4834836712872347197
+    second: Dungeoneers Ground_1293
+  - first:
+      213: -4608796773579979443
+    second: Dungeoneers Ground_1294
+  - first:
+      213: -904703917544394693
+    second: Dungeoneers Ground_1295
+  - first:
+      213: -24050253252393563
+    second: Dungeoneers Ground_1296
+  - first:
+      213: -3412996411713626080
+    second: Dungeoneers Ground_1297
+  - first:
+      213: 5219667709084108796
+    second: Dungeoneers Ground_1298
+  - first:
+      213: 1288216977638868346
+    second: Dungeoneers Ground_1299
+  - first:
+      213: -5019564752542522409
+    second: Dungeoneers Ground_1300
+  - first:
+      213: -8413046337340638047
+    second: Dungeoneers Ground_1301
+  - first:
+      213: -5832921147602952527
+    second: Dungeoneers Ground_1302
+  - first:
+      213: 4978482324489738617
+    second: Dungeoneers Ground_1303
+  - first:
+      213: -5192530137361070070
+    second: Dungeoneers Ground_1304
+  - first:
+      213: -2842234095393776050
+    second: Dungeoneers Ground_1305
+  - first:
+      213: 899487446666208429
+    second: Dungeoneers Ground_1306
+  - first:
+      213: 322286385041522989
+    second: Dungeoneers Ground_1307
+  - first:
+      213: 2248119908832309230
+    second: Dungeoneers Ground_1308
+  - first:
+      213: 5820340531948727717
+    second: Dungeoneers Ground_1309
+  - first:
+      213: -3035047830057563211
+    second: Dungeoneers Ground_1310
+  - first:
+      213: 5246261267429750641
+    second: Dungeoneers Ground_1311
+  - first:
+      213: 408993653109650730
+    second: Dungeoneers Ground_1312
+  - first:
+      213: -6572712395926372258
+    second: Dungeoneers Ground_1313
+  - first:
+      213: 3657594079796337633
+    second: Dungeoneers Ground_1314
+  - first:
+      213: 3113111547212256597
+    second: Dungeoneers Ground_1315
+  - first:
+      213: -3286321009651958570
+    second: Dungeoneers Ground_1316
+  - first:
+      213: 9218075601514590308
+    second: Dungeoneers Ground_1317
+  - first:
+      213: -2982174884975808810
+    second: Dungeoneers Ground_1318
+  - first:
+      213: -1767766977674780230
+    second: Dungeoneers Ground_1319
+  - first:
+      213: -5384691779913010243
+    second: Dungeoneers Ground_1320
+  - first:
+      213: -4197148651594994070
+    second: Dungeoneers Ground_1321
+  - first:
+      213: -2783473467611933022
+    second: Dungeoneers Ground_1322
+  - first:
+      213: 7196212866594545991
+    second: Dungeoneers Ground_1323
+  - first:
+      213: 7932194554082928962
+    second: Dungeoneers Ground_1324
+  - first:
+      213: -7486533296731981079
+    second: Dungeoneers Ground_1325
+  - first:
+      213: 5118289211235188107
+    second: Dungeoneers Ground_1326
+  - first:
+      213: -7662572416176158113
+    second: Dungeoneers Ground_1327
+  - first:
+      213: 6602923642802881453
+    second: Dungeoneers Ground_1328
+  - first:
+      213: 7695591374175344720
+    second: Dungeoneers Ground_1329
+  - first:
+      213: 1638834402429701024
+    second: Dungeoneers Ground_1330
+  - first:
+      213: -316796707795671659
+    second: Dungeoneers Ground_1331
+  - first:
+      213: -7480708945636119351
+    second: Dungeoneers Ground_1332
+  - first:
+      213: 3635426885966500949
+    second: Dungeoneers Ground_1333
+  - first:
+      213: 4606849305630279610
+    second: Dungeoneers Ground_1334
+  - first:
+      213: 2876764967503790107
+    second: Dungeoneers Ground_1335
+  - first:
+      213: -2774970308134017732
+    second: Dungeoneers Ground_1336
+  - first:
+      213: 5042066672290848870
+    second: Dungeoneers Ground_1337
+  - first:
+      213: -4371355106880403443
+    second: Dungeoneers Ground_1338
+  - first:
+      213: 1648713277907810634
+    second: Dungeoneers Ground_1339
+  - first:
+      213: 8163500019230750209
+    second: Dungeoneers Ground_1340
+  - first:
+      213: 1419722012681637786
+    second: Dungeoneers Ground_1341
+  - first:
+      213: 3433479170781652012
+    second: Dungeoneers Ground_1342
+  - first:
+      213: -7205226554111878933
+    second: Dungeoneers Ground_1343
+  - first:
+      213: 732449497098625222
+    second: Dungeoneers Ground_1344
+  - first:
+      213: 9005999691760701581
+    second: Dungeoneers Ground_1345
+  - first:
+      213: 1392555590601612970
+    second: Dungeoneers Ground_1346
+  - first:
+      213: -1980092303642492029
+    second: Dungeoneers Ground_1347
+  - first:
+      213: 3983710187376354137
+    second: Dungeoneers Ground_1348
+  - first:
+      213: 9042739841519344052
+    second: Dungeoneers Ground_1349
+  - first:
+      213: -8090847818966000844
+    second: Dungeoneers Ground_1350
+  - first:
+      213: 2070938840049940763
+    second: Dungeoneers Ground_1351
+  - first:
+      213: -816135409634533611
+    second: Dungeoneers Ground_1352
+  - first:
+      213: 2392045561663597656
+    second: Dungeoneers Ground_1353
+  - first:
+      213: -3321827584172660807
+    second: Dungeoneers Ground_1354
+  - first:
+      213: 2491585878435896494
+    second: Dungeoneers Ground_1355
+  - first:
+      213: -5831433915812595223
+    second: Dungeoneers Ground_1356
+  - first:
+      213: -1496875343767052194
+    second: Dungeoneers Ground_1357
+  - first:
+      213: 8955615276124687111
+    second: Dungeoneers Ground_1358
+  - first:
+      213: -4961748381904979951
+    second: Dungeoneers Ground_1359
+  - first:
+      213: 4634888028105821238
+    second: Dungeoneers Ground_1360
+  - first:
+      213: -7704986343224067606
+    second: Dungeoneers Ground_1361
+  - first:
+      213: 5954772225828239904
+    second: Dungeoneers Ground_1362
+  - first:
+      213: -1106237645032226529
+    second: Dungeoneers Ground_1363
+  - first:
+      213: 2763215204398784440
+    second: Dungeoneers Ground_1364
+  - first:
+      213: 4470868767643462549
+    second: Dungeoneers Ground_1365
+  - first:
+      213: -4855399972332034773
+    second: Dungeoneers Ground_1366
+  - first:
+      213: -530469914831617723
+    second: Dungeoneers Ground_1367
+  - first:
+      213: 847091014139818731
+    second: Dungeoneers Ground_1368
+  - first:
+      213: 3823444406998612170
+    second: Dungeoneers Ground_1369
+  - first:
+      213: 8530468301337205914
+    second: Dungeoneers Ground_1370
+  - first:
+      213: 2065724959451359391
+    second: Dungeoneers Ground_1371
+  - first:
+      213: 4076364204996141702
+    second: Dungeoneers Ground_1372
+  - first:
+      213: 2446971601107278170
+    second: Dungeoneers Ground_1373
+  - first:
+      213: -2048276499143610771
+    second: Dungeoneers Ground_1374
+  - first:
+      213: -4346988616933759002
+    second: Dungeoneers Ground_1375
+  - first:
+      213: 1200519784541056503
+    second: Dungeoneers Ground_1376
+  - first:
+      213: -806205491256187761
+    second: Dungeoneers Ground_1377
+  - first:
+      213: 7333546104140908132
+    second: Dungeoneers Ground_1378
+  - first:
+      213: -4355496807930040416
+    second: Dungeoneers Ground_1379
+  - first:
+      213: 8408597602119121785
+    second: Dungeoneers Ground_1380
+  - first:
+      213: 1650142830248452742
+    second: Dungeoneers Ground_1381
+  - first:
+      213: -6263996417532304360
+    second: Dungeoneers Ground_1382
+  - first:
+      213: -8887757802244997915
+    second: Dungeoneers Ground_1383
+  - first:
+      213: -5584728530694348575
+    second: Dungeoneers Ground_1384
+  - first:
+      213: 5095668921177357909
+    second: Dungeoneers Ground_1385
+  - first:
+      213: -2132432799323054608
+    second: Dungeoneers Ground_1386
+  - first:
+      213: -8870193317642153043
+    second: Dungeoneers Ground_1387
+  - first:
+      213: -7343112656074071243
+    second: Dungeoneers Ground_1388
+  - first:
+      213: 3929322757849011846
+    second: Dungeoneers Ground_1389
+  - first:
+      213: -7557665600826990180
+    second: Dungeoneers Ground_1390
+  - first:
+      213: 2424118855169814539
+    second: Dungeoneers Ground_1391
+  - first:
+      213: 6343570302709774107
+    second: Dungeoneers Ground_1392
+  - first:
+      213: -6908783537759351928
+    second: Dungeoneers Ground_1393
+  - first:
+      213: 3750995071725182543
+    second: Dungeoneers Ground_1394
+  - first:
+      213: 3419951623573934390
+    second: Dungeoneers Ground_1395
+  - first:
+      213: -4271275225362125091
+    second: Dungeoneers Ground_1396
+  - first:
+      213: 9182292016423627315
+    second: Dungeoneers Ground_1397
+  - first:
+      213: 4976872672769243011
+    second: Dungeoneers Ground_1398
+  - first:
+      213: 34650720797552222
+    second: Dungeoneers Ground_1399
+  - first:
+      213: -1121017435298905985
+    second: Dungeoneers Ground_1400
+  - first:
+      213: -6288057318500858044
+    second: Dungeoneers Ground_1401
+  - first:
+      213: 1672394580905551294
+    second: Dungeoneers Ground_1402
+  - first:
+      213: 3846245850760164517
+    second: Dungeoneers Ground_1403
+  - first:
+      213: 306315858725854867
+    second: Dungeoneers Ground_1404
+  - first:
+      213: 5093594184211934932
+    second: Dungeoneers Ground_1405
+  - first:
+      213: 2109857910552646913
+    second: Dungeoneers Ground_1406
+  - first:
+      213: -580886741013621
+    second: Dungeoneers Ground_1407
+  - first:
+      213: -3842625868951981888
+    second: Dungeoneers Ground_1408
+  - first:
+      213: -4161425273332687107
+    second: Dungeoneers Ground_1409
+  - first:
+      213: -7263374242039343001
+    second: Dungeoneers Ground_1410
+  - first:
+      213: -878900737987791342
+    second: Dungeoneers Ground_1411
+  - first:
+      213: -7013340614813458471
+    second: Dungeoneers Ground_1412
+  - first:
+      213: -8226030421328698634
+    second: Dungeoneers Ground_1413
+  - first:
+      213: -2982043566344984086
+    second: Dungeoneers Ground_1414
+  - first:
+      213: 1713307834985022366
+    second: Dungeoneers Ground_1415
+  - first:
+      213: 7879860631503507116
+    second: Dungeoneers Ground_1416
+  - first:
+      213: 4273904191265430666
+    second: Dungeoneers Ground_1417
+  - first:
+      213: -5224507467455370987
+    second: Dungeoneers Ground_1418
+  - first:
+      213: -962683207383364243
+    second: Dungeoneers Ground_1419
+  - first:
+      213: 4973795211466108351
+    second: Dungeoneers Ground_1420
+  - first:
+      213: 333665443962252638
+    second: Dungeoneers Ground_1421
+  - first:
+      213: 421134749914661831
+    second: Dungeoneers Ground_1422
+  - first:
+      213: 4196097576580130426
+    second: Dungeoneers Ground_1423
+  - first:
+      213: -8954243188545019735
+    second: Dungeoneers Ground_1424
+  - first:
+      213: -3533572716975722119
+    second: Dungeoneers Ground_1425
+  - first:
+      213: 3705719197764334319
+    second: Dungeoneers Ground_1426
+  - first:
+      213: 2394246426706199046
+    second: Dungeoneers Ground_1427
+  - first:
+      213: -6309091785553777217
+    second: Dungeoneers Ground_1428
+  - first:
+      213: -5539132760716456229
+    second: Dungeoneers Ground_1429
+  - first:
+      213: -1164070239534534697
+    second: Dungeoneers Ground_1430
+  - first:
+      213: 4858592392068654868
+    second: Dungeoneers Ground_1431
+  - first:
+      213: -241655956782376013
+    second: Dungeoneers Ground_1432
+  - first:
+      213: 1617466243530249482
+    second: Dungeoneers Ground_1433
+  - first:
+      213: -4771377463314071647
+    second: Dungeoneers Ground_1434
+  - first:
+      213: 8225249538511770905
+    second: Dungeoneers Ground_1435
+  - first:
+      213: 2824657430912424263
+    second: Dungeoneers Ground_1436
+  - first:
+      213: -291114974252177830
+    second: Dungeoneers Ground_1437
+  - first:
+      213: 6158456302037513947
+    second: Dungeoneers Ground_1438
+  - first:
+      213: -434690658632248745
+    second: Dungeoneers Ground_1439
+  - first:
+      213: 2705736771611506702
+    second: Dungeoneers Ground_1440
+  - first:
+      213: -6351051910153718033
+    second: Dungeoneers Ground_1441
+  - first:
+      213: -2419075976710800486
+    second: Dungeoneers Ground_1442
+  - first:
+      213: 3479183457048203491
+    second: Dungeoneers Ground_1443
+  - first:
+      213: 5707857558101040479
+    second: Dungeoneers Ground_1444
+  - first:
+      213: -6950002253145905499
+    second: Dungeoneers Ground_1445
+  - first:
+      213: 9200418136913052087
+    second: Dungeoneers Ground_1446
+  - first:
+      213: 8493886448827481707
+    second: Dungeoneers Ground_1447
+  - first:
+      213: -8177916800690781392
+    second: Dungeoneers Ground_1448
+  - first:
+      213: -8698909342934552000
+    second: Dungeoneers Ground_1449
+  - first:
+      213: 6167246804990349181
+    second: Dungeoneers Ground_1450
+  - first:
+      213: 7942445218359749043
+    second: Dungeoneers Ground_1451
+  - first:
+      213: -8804139890777956098
+    second: Dungeoneers Ground_1452
+  - first:
+      213: -940359187580949099
+    second: Dungeoneers Ground_1453
+  - first:
+      213: 8687418064444681415
+    second: Dungeoneers Ground_1454
+  - first:
+      213: 4497836691492146702
+    second: Dungeoneers Ground_1455
+  - first:
+      213: -6006426955615656416
+    second: Dungeoneers Ground_1456
+  - first:
+      213: 2783419554754444464
+    second: Dungeoneers Ground_1457
+  - first:
+      213: 483369659021921524
+    second: Dungeoneers Ground_1458
+  - first:
+      213: 6511569439282171659
+    second: Dungeoneers Ground_1459
+  - first:
+      213: 1663851708504016006
+    second: Dungeoneers Ground_1460
+  - first:
+      213: 107633553411076931
+    second: Dungeoneers Ground_1461
+  - first:
+      213: -5734238490646138164
+    second: Dungeoneers Ground_1462
+  - first:
+      213: 6095857170575408496
+    second: Dungeoneers Ground_1463
+  - first:
+      213: -8294548435611914359
+    second: Dungeoneers Ground_1464
+  - first:
+      213: 5187377466789454481
+    second: Dungeoneers Ground_1465
+  - first:
+      213: 7924135376349723783
+    second: Dungeoneers Ground_1466
+  - first:
+      213: -4260851566720415937
+    second: Dungeoneers Ground_1467
+  - first:
+      213: -2514208651617651451
+    second: Dungeoneers Ground_1468
+  - first:
+      213: -6432579952543804652
+    second: Dungeoneers Ground_1469
+  - first:
+      213: -362017212316344360
+    second: Dungeoneers Ground_1470
+  - first:
+      213: 1940552934343624180
+    second: Dungeoneers Ground_1471
+  - first:
+      213: -7609819700626581964
+    second: Dungeoneers Ground_1472
+  - first:
+      213: -4537640540970845526
+    second: Dungeoneers Ground_1473
+  - first:
+      213: -292757564984734022
+    second: Dungeoneers Ground_1474
+  - first:
+      213: 2958253737552050550
+    second: Dungeoneers Ground_1475
+  - first:
+      213: 1416336580503160792
+    second: Dungeoneers Ground_1476
+  - first:
+      213: 786428969538719142
+    second: Dungeoneers Ground_1477
+  - first:
+      213: -8289147736420490829
+    second: Dungeoneers Ground_1478
+  - first:
+      213: 3936075609109384749
+    second: Dungeoneers Ground_1479
+  - first:
+      213: -4592816256638650419
+    second: Dungeoneers Ground_1480
+  - first:
+      213: 6261789203815011334
+    second: Dungeoneers Ground_1481
+  - first:
+      213: -418362662340642989
+    second: Dungeoneers Ground_1482
+  - first:
+      213: -8262991822382914644
+    second: Dungeoneers Ground_1483
+  - first:
+      213: -6098952621641412152
+    second: Dungeoneers Ground_1484
+  - first:
+      213: -1949908776917853858
+    second: Dungeoneers Ground_1485
+  - first:
+      213: 6987395409736030039
+    second: Dungeoneers Ground_1486
+  - first:
+      213: -2475505479025922834
+    second: Dungeoneers Ground_1487
+  - first:
+      213: 2636254696341762467
+    second: Dungeoneers Ground_1488
+  - first:
+      213: 2614970684378828884
+    second: Dungeoneers Ground_1489
+  - first:
+      213: -1760225103941415771
+    second: Dungeoneers Ground_1490
+  - first:
+      213: -5418172050908559258
+    second: Dungeoneers Ground_1491
+  - first:
+      213: -3220842462700855597
+    second: Dungeoneers Ground_1492
+  - first:
+      213: -1006029664253596094
+    second: Dungeoneers Ground_1493
+  - first:
+      213: -2739942658482412615
+    second: Dungeoneers Ground_1494
+  - first:
+      213: -8233614196324978145
+    second: Dungeoneers Ground_1495
+  - first:
+      213: 8714709997312237615
+    second: Dungeoneers Ground_1496
+  - first:
+      213: -7573939633905167318
+    second: Dungeoneers Ground_1497
+  - first:
+      213: 2804863389612647199
+    second: Dungeoneers Ground_1498
+  - first:
+      213: 6781270206339744351
+    second: Dungeoneers Ground_1499
+  - first:
+      213: 4803297904943568260
+    second: Dungeoneers Ground_1500
+  - first:
+      213: -546344964308666923
+    second: Dungeoneers Ground_1501
+  - first:
+      213: 2558915957579738222
+    second: Dungeoneers Ground_1502
+  - first:
+      213: -1219679761730564924
+    second: Dungeoneers Ground_1503
+  - first:
+      213: 5979831124535110518
+    second: Dungeoneers Ground_1504
+  - first:
+      213: -2453136590120137717
+    second: Dungeoneers Ground_1505
+  - first:
+      213: -5650195341382067234
+    second: Dungeoneers Ground_1506
+  - first:
+      213: 3914816457861164648
+    second: Dungeoneers Ground_1507
+  - first:
+      213: 5136333485037235771
+    second: Dungeoneers Ground_1508
+  - first:
+      213: -106554307518848060
+    second: Dungeoneers Ground_1509
+  - first:
+      213: -7749125114545430375
+    second: Dungeoneers Ground_1510
+  - first:
+      213: 959353374476627628
+    second: Dungeoneers Ground_1511
+  - first:
+      213: 2591323317907770705
+    second: Dungeoneers Ground_1512
+  - first:
+      213: -3245874304419165425
+    second: Dungeoneers Ground_1513
+  - first:
+      213: -1182118513952994109
+    second: Dungeoneers Ground_1514
+  - first:
+      213: -3744919542010318531
+    second: Dungeoneers Ground_1515
+  - first:
+      213: 5051716902601715217
+    second: Dungeoneers Ground_1516
+  - first:
+      213: 2272871675076637085
+    second: Dungeoneers Ground_1517
+  - first:
+      213: -5721500496644394148
+    second: Dungeoneers Ground_1518
+  - first:
+      213: 1558871541744411609
+    second: Dungeoneers Ground_1519
+  - first:
+      213: -1016308161056196502
+    second: Dungeoneers Ground_1520
+  - first:
+      213: 7584736354512355404
+    second: Dungeoneers Ground_1521
+  - first:
+      213: -3819215888075821833
+    second: Dungeoneers Ground_1522
+  - first:
+      213: 7587104732384909707
+    second: Dungeoneers Ground_1523
+  - first:
+      213: 8180856582397449368
+    second: Dungeoneers Ground_1524
+  - first:
+      213: -5454694007055285476
+    second: Dungeoneers Ground_1525
+  - first:
+      213: -1218529955213584505
+    second: Dungeoneers Ground_1526
+  - first:
+      213: -5976712753466932191
+    second: Dungeoneers Ground_1527
+  - first:
+      213: -2714030012750444215
+    second: Dungeoneers Ground_1528
+  - first:
+      213: 911269200100987049
+    second: Dungeoneers Ground_1529
+  - first:
+      213: 8011985232020674471
+    second: Dungeoneers Ground_1530
+  - first:
+      213: -4010031967354303974
+    second: Dungeoneers Ground_1531
+  - first:
+      213: 4477152897417811690
+    second: Dungeoneers Ground_1532
+  - first:
+      213: -7808493797485553712
+    second: Dungeoneers Ground_1533
+  - first:
+      213: -6611942086153857487
+    second: Dungeoneers Ground_1534
+  - first:
+      213: -6311996853802880855
+    second: Dungeoneers Ground_1535
+  - first:
+      213: -1550313060594917258
+    second: Dungeoneers Ground_1536
+  - first:
+      213: 822314110758668190
+    second: Dungeoneers Ground_1537
+  - first:
+      213: -3714000476498988806
+    second: Dungeoneers Ground_1538
+  - first:
+      213: 5582562545489567410
+    second: Dungeoneers Ground_1539
+  - first:
+      213: -9109567515713303501
+    second: Dungeoneers Ground_1540
+  - first:
+      213: -5819364247085729763
+    second: Dungeoneers Ground_1541
+  - first:
+      213: -8246216095601172106
+    second: Dungeoneers Ground_1542
+  - first:
+      213: 2783411237797838814
+    second: Dungeoneers Ground_1543
+  - first:
+      213: 3691550789762818590
+    second: Dungeoneers Ground_1544
+  - first:
+      213: 2852842669121423107
+    second: Dungeoneers Ground_1545
+  - first:
+      213: 5423267276005236942
+    second: Dungeoneers Ground_1546
+  - first:
+      213: -5064710946548728579
+    second: Dungeoneers Ground_1547
+  - first:
+      213: 4465898867128553432
+    second: Dungeoneers Ground_1548
+  - first:
+      213: -2173286722845061932
+    second: Dungeoneers Ground_1549
+  - first:
+      213: 8185795459298908882
+    second: Dungeoneers Ground_1550
+  - first:
+      213: 7968202809132846761
+    second: Dungeoneers Ground_1551
+  - first:
+      213: -675037412995224377
+    second: Dungeoneers Ground_1552
+  - first:
+      213: -8211049339164206054
+    second: Dungeoneers Ground_1553
+  - first:
+      213: -140642973287119686
+    second: Dungeoneers Ground_1554
+  - first:
+      213: 1367684642115582072
+    second: Dungeoneers Ground_1555
+  - first:
+      213: 1882965597752812732
+    second: Dungeoneers Ground_1556
+  - first:
+      213: 9018398623754538776
+    second: Dungeoneers Ground_1557
+  - first:
+      213: -8482886471729050306
+    second: Dungeoneers Ground_1558
+  - first:
+      213: 7688811238973951988
+    second: Dungeoneers Ground_1559
+  - first:
+      213: -6021163258874318566
+    second: Dungeoneers Ground_1560
+  - first:
+      213: 3556174413321979252
+    second: Dungeoneers Ground_1561
+  - first:
+      213: -2471438621146533704
+    second: Dungeoneers Ground_1562
+  - first:
+      213: -6666666046489840687
+    second: Dungeoneers Ground_1563
+  - first:
+      213: -6169648297867629999
+    second: Dungeoneers Ground_1564
+  - first:
+      213: 377735136801023459
+    second: Dungeoneers Ground_1565
+  - first:
+      213: -1161246419135122643
+    second: Dungeoneers Ground_1566
+  - first:
+      213: -7307294054964391140
+    second: Dungeoneers Ground_1567
+  - first:
+      213: 6102261124634071173
+    second: Dungeoneers Ground_1568
+  - first:
+      213: -4243704757120519408
+    second: Dungeoneers Ground_1569
+  - first:
+      213: -6339206669839969699
+    second: Dungeoneers Ground_1570
+  - first:
+      213: 1709080691753319665
+    second: Dungeoneers Ground_1571
+  - first:
+      213: 2744542054815305361
+    second: Dungeoneers Ground_1572
+  - first:
+      213: -3645642483112121400
+    second: Dungeoneers Ground_1573
+  - first:
+      213: -7057850058799479607
+    second: Dungeoneers Ground_1574
+  - first:
+      213: -7870042327667913702
+    second: Dungeoneers Ground_1575
+  - first:
+      213: 4717418538179358625
+    second: Dungeoneers Ground_1576
+  - first:
+      213: 8573121959774006385
+    second: Dungeoneers Ground_1577
+  - first:
+      213: 8672279037947479698
+    second: Dungeoneers Ground_1578
+  - first:
+      213: 6470125876448406707
+    second: Dungeoneers Ground_1579
+  - first:
+      213: 6057826987314977273
+    second: Dungeoneers Ground_1580
+  - first:
+      213: 7422145974780169786
+    second: Dungeoneers Ground_1581
+  - first:
+      213: -5066443957919314345
+    second: Dungeoneers Ground_1582
+  - first:
+      213: -2630846725567879718
+    second: Dungeoneers Ground_1583
+  - first:
+      213: 1362682142804037212
+    second: Dungeoneers Ground_1584
+  - first:
+      213: -5580495562949390025
+    second: Dungeoneers Ground_1585
+  - first:
+      213: -2876726007372852477
+    second: Dungeoneers Ground_1586
+  - first:
+      213: 6934106371933680750
+    second: Dungeoneers Ground_1587
+  - first:
+      213: 1400458004352994409
+    second: Dungeoneers Ground_1588
+  - first:
+      213: -5329332009645646891
+    second: Dungeoneers Ground_1589
+  - first:
+      213: -4083413621747571325
+    second: Dungeoneers Ground_1590
+  - first:
+      213: 1472439721193665748
+    second: Dungeoneers Ground_1591
+  - first:
+      213: 474422294481796734
+    second: Dungeoneers Ground_1592
+  - first:
+      213: 2040947526311717873
+    second: Dungeoneers Ground_1593
+  - first:
+      213: -5700826455253415531
+    second: Dungeoneers Ground_1594
+  - first:
+      213: 3843803142268936814
+    second: Dungeoneers Ground_1595
+  - first:
+      213: -7040379615816368971
+    second: Dungeoneers Ground_1596
+  - first:
+      213: -3729873396491361041
+    second: Dungeoneers Ground_1597
+  - first:
+      213: 6024097541915271832
+    second: Dungeoneers Ground_1598
+  - first:
+      213: 3005739447635023949
+    second: Dungeoneers Ground_1599
+  - first:
+      213: 653421675656625476
+    second: Dungeoneers Ground_1600
+  - first:
+      213: 7070607095994127835
+    second: Dungeoneers Ground_1601
+  - first:
+      213: -5814191605321483134
+    second: Dungeoneers Ground_1602
+  - first:
+      213: -615061642338940055
+    second: Dungeoneers Ground_1603
+  - first:
+      213: 7005998155883256193
+    second: Dungeoneers Ground_1604
+  - first:
+      213: -3073939603536644612
+    second: Dungeoneers Ground_1605
+  - first:
+      213: 5380864006695040666
+    second: Dungeoneers Ground_1606
+  - first:
+      213: 7564997891926976462
+    second: Dungeoneers Ground_1607
+  - first:
+      213: 3830317254964948963
+    second: Dungeoneers Ground_1608
+  - first:
+      213: 3071709204687168793
+    second: Dungeoneers Ground_1609
+  - first:
+      213: 763933889078867085
+    second: Dungeoneers Ground_1610
+  - first:
+      213: -8518092408414920381
+    second: Dungeoneers Ground_1611
+  - first:
+      213: 2212315045220113055
+    second: Dungeoneers Ground_1612
+  - first:
+      213: -7248374097895334765
+    second: Dungeoneers Ground_1613
+  - first:
+      213: -6357322843252384077
+    second: Dungeoneers Ground_1614
+  - first:
+      213: 7548113401376459618
+    second: Dungeoneers Ground_1615
+  - first:
+      213: -3140483077806578170
+    second: Dungeoneers Ground_1616
+  - first:
+      213: 5631659619267892180
+    second: Dungeoneers Ground_1617
+  - first:
+      213: -3887510611433532494
+    second: Dungeoneers Ground_1618
+  - first:
+      213: -8089769627496085629
+    second: Dungeoneers Ground_1619
+  - first:
+      213: 472417967705762844
+    second: Dungeoneers Ground_1620
+  - first:
+      213: 2708149200368845249
+    second: Dungeoneers Ground_1621
+  - first:
+      213: -4127522912991690052
+    second: Dungeoneers Ground_1622
+  - first:
+      213: -8547150233709932075
+    second: Dungeoneers Ground_1623
+  - first:
+      213: 7024222654565606317
+    second: Dungeoneers Ground_1624
+  - first:
+      213: -4902325919072766794
+    second: Dungeoneers Ground_1625
+  - first:
+      213: 3934788879009289407
+    second: Dungeoneers Ground_1626
+  - first:
+      213: -5613317202735805877
+    second: Dungeoneers Ground_1627
+  - first:
+      213: -8614680854393858717
+    second: Dungeoneers Ground_1628
+  - first:
+      213: -8259288654325586963
+    second: Dungeoneers Ground_1629
+  - first:
+      213: -218498117597238210
+    second: Dungeoneers Ground_1630
+  - first:
+      213: 7556957917880418352
+    second: Dungeoneers Ground_1631
+  - first:
+      213: 8664300763708732959
+    second: Dungeoneers Ground_1632
+  - first:
+      213: 6940737634263494268
+    second: Dungeoneers Ground_1633
+  - first:
+      213: -4829748963297808984
+    second: Dungeoneers Ground_1634
+  - first:
+      213: -2567955494992412969
+    second: Dungeoneers Ground_1635
+  - first:
+      213: 4296821250793332234
+    second: Dungeoneers Ground_1636
+  - first:
+      213: -1504446367309153239
+    second: Dungeoneers Ground_1637
+  - first:
+      213: -5372242619653234600
+    second: Dungeoneers Ground_1638
+  - first:
+      213: -5999268763393719205
+    second: Dungeoneers Ground_1639
+  - first:
+      213: -6757628991135529779
+    second: Dungeoneers Ground_1640
+  - first:
+      213: 5454245498755239945
+    second: Dungeoneers Ground_1641
+  - first:
+      213: -1427846816916590768
+    second: Dungeoneers Ground_1642
+  - first:
+      213: 8029635547852297496
+    second: Dungeoneers Ground_1643
+  - first:
+      213: 7455904662404376370
+    second: Dungeoneers Ground_1644
+  - first:
+      213: -1054175171881893302
+    second: Dungeoneers Ground_1645
+  - first:
+      213: 1873693198965037695
+    second: Dungeoneers Ground_1646
+  - first:
+      213: 4443284071690212136
+    second: Dungeoneers Ground_1647
+  - first:
+      213: -2817156833609830555
+    second: Dungeoneers Ground_1648
+  - first:
+      213: -9013218395138009072
+    second: Dungeoneers Ground_1649
+  - first:
+      213: 3490226126309066231
+    second: Dungeoneers Ground_1650
+  - first:
+      213: -4907931724929665596
+    second: Dungeoneers Ground_1651
+  - first:
+      213: 6298584057096059452
+    second: Dungeoneers Ground_1652
+  - first:
+      213: 9066240548158167933
+    second: Dungeoneers Ground_1653
+  - first:
+      213: 2953534887031391726
+    second: Dungeoneers Ground_1654
+  - first:
+      213: -5187656923690319086
+    second: Dungeoneers Ground_1655
+  - first:
+      213: 5642087700988596878
+    second: Dungeoneers Ground_1656
+  - first:
+      213: -803398134448426276
+    second: Dungeoneers Ground_1657
+  - first:
+      213: 2193007537559820587
+    second: Dungeoneers Ground_1658
+  - first:
+      213: -8639139144829593579
+    second: Dungeoneers Ground_1659
+  - first:
+      213: 6870788546548883708
+    second: Dungeoneers Ground_1660
+  - first:
+      213: -5777336501415985839
+    second: Dungeoneers Ground_1661
+  - first:
+      213: -6823443495751398107
+    second: Dungeoneers Ground_1662
+  - first:
+      213: 3897018333006925609
+    second: Dungeoneers Ground_1663
+  - first:
+      213: 7975484177503847153
+    second: Dungeoneers Ground_1664
+  - first:
+      213: -2322237379097637863
+    second: Dungeoneers Ground_1665
+  - first:
+      213: 7912431449037629785
+    second: Dungeoneers Ground_1666
+  - first:
+      213: -5647599104985697995
+    second: Dungeoneers Ground_1667
+  - first:
+      213: 1523606814410045884
+    second: Dungeoneers Ground_1668
+  - first:
+      213: -6983234844796198793
+    second: Dungeoneers Ground_1669
+  - first:
+      213: -6683880309634583365
+    second: Dungeoneers Ground_1670
+  - first:
+      213: 7360815296704334648
+    second: Dungeoneers Ground_1671
+  - first:
+      213: -6053077519214893419
+    second: Dungeoneers Ground_1672
+  - first:
+      213: -81980832360210032
+    second: Dungeoneers Ground_1673
+  - first:
+      213: -3181174277064313421
+    second: Dungeoneers Ground_1674
+  - first:
+      213: 5333776578225523360
+    second: Dungeoneers Ground_1675
+  - first:
+      213: -6837573520487142540
+    second: Dungeoneers Ground_1676
+  - first:
+      213: 585656171203782503
+    second: Dungeoneers Ground_1677
+  - first:
+      213: 6190041984373962218
+    second: Dungeoneers Ground_1678
+  - first:
+      213: -361829798082868789
+    second: Dungeoneers Ground_1679
+  - first:
+      213: -3186742294352724048
+    second: Dungeoneers Ground_1680
+  - first:
+      213: -53331128368259441
+    second: Dungeoneers Ground_1681
+  - first:
+      213: 9009802570536023811
+    second: Dungeoneers Ground_1682
+  - first:
+      213: -4559057835645706815
+    second: Dungeoneers Ground_1683
+  - first:
+      213: -3019759433372560456
+    second: Dungeoneers Ground_1684
+  - first:
+      213: 8369704350652236330
+    second: Dungeoneers Ground_1685
+  - first:
+      213: -7416875820078957789
+    second: Dungeoneers Ground_1686
+  - first:
+      213: 335530179412571899
+    second: Dungeoneers Ground_1687
+  - first:
+      213: 4252636316073168570
+    second: Dungeoneers Ground_1688
+  - first:
+      213: -2012091723093372878
+    second: Dungeoneers Ground_1689
+  - first:
+      213: 6896526366870417981
+    second: Dungeoneers Ground_1690
+  - first:
+      213: -7972121450871542529
+    second: Dungeoneers Ground_1691
+  - first:
+      213: 8889472738500068460
+    second: Dungeoneers Ground_1692
+  - first:
+      213: 6829611704214193031
+    second: Dungeoneers Ground_1693
+  - first:
+      213: 346363161510486411
+    second: Dungeoneers Ground_1694
+  - first:
+      213: -8022184309966006292
+    second: Dungeoneers Ground_1695
+  - first:
+      213: 3988173589726325221
+    second: Dungeoneers Ground_1696
+  - first:
+      213: 3375330825206603673
+    second: Dungeoneers Ground_1697
+  - first:
+      213: 8314242044438154376
+    second: Dungeoneers Ground_1698
+  - first:
+      213: -153681522065719255
+    second: Dungeoneers Ground_1699
+  - first:
+      213: 7793151790006692083
+    second: Dungeoneers Ground_1700
+  - first:
+      213: -3107657319214863060
+    second: Dungeoneers Ground_1701
+  - first:
+      213: 8655776555232320262
+    second: Dungeoneers Ground_1702
+  - first:
+      213: -2187262966199112594
+    second: Dungeoneers Ground_1703
+  - first:
+      213: -5431516001940925057
+    second: Dungeoneers Ground_1704
+  - first:
+      213: 3608929060184768388
+    second: Dungeoneers Ground_1705
+  - first:
+      213: 5093707825423309441
+    second: Dungeoneers Ground_1706
+  - first:
+      213: 6768505786277093750
+    second: Dungeoneers Ground_1707
+  - first:
+      213: 4445996053931800495
+    second: Dungeoneers Ground_1708
+  - first:
+      213: 4033799630687419213
+    second: Dungeoneers Ground_1709
+  - first:
+      213: 8041535900310910517
+    second: Dungeoneers Ground_1710
+  - first:
+      213: 628672142587384355
+    second: Dungeoneers Ground_1711
+  - first:
+      213: 1739221487144604027
+    second: Dungeoneers Ground_1712
+  - first:
+      213: 8440890190578697995
+    second: Dungeoneers Ground_1713
+  - first:
+      213: -5575400842732258523
+    second: Dungeoneers Ground_1714
+  - first:
+      213: -173226003018115682
+    second: Dungeoneers Ground_1715
+  - first:
+      213: -5579917963158885444
+    second: Dungeoneers Ground_1716
+  - first:
+      213: 3574221197660416946
+    second: Dungeoneers Ground_1717
+  - first:
+      213: 7826679901649703523
+    second: Dungeoneers Ground_1718
+  - first:
+      213: 3373663191043332540
+    second: Dungeoneers Ground_1719
+  - first:
+      213: -4727545449652257989
+    second: Dungeoneers Ground_1720
+  - first:
+      213: -879124050405806725
+    second: Dungeoneers Ground_1721
+  - first:
+      213: -8833933134775118445
+    second: Dungeoneers Ground_1722
+  - first:
+      213: 3154413191006574860
+    second: Dungeoneers Ground_1723
+  - first:
+      213: 6655545290184464317
+    second: Dungeoneers Ground_1724
+  - first:
+      213: -3609218258545245029
+    second: Dungeoneers Ground_1725
+  - first:
+      213: 8138697673711485718
+    second: Dungeoneers Ground_1726
+  - first:
+      213: -2814355602040571406
+    second: Dungeoneers Ground_1727
+  - first:
+      213: -7883576151980364928
+    second: Dungeoneers Ground_1728
+  - first:
+      213: 5588088964092017356
+    second: Dungeoneers Ground_1729
+  - first:
+      213: 3801139205307807781
+    second: Dungeoneers Ground_1730
+  - first:
+      213: 1528771872219285646
+    second: Dungeoneers Ground_1731
+  - first:
+      213: -1645783357581520645
+    second: Dungeoneers Ground_1732
+  - first:
+      213: 7234257627471199862
+    second: Dungeoneers Ground_1733
+  - first:
+      213: -4216251918508879610
+    second: Dungeoneers Ground_1734
+  - first:
+      213: 50734816254791775
+    second: Dungeoneers Ground_1735
+  - first:
+      213: 7812786861270963159
+    second: Dungeoneers Ground_1736
+  - first:
+      213: -4621521515967982338
+    second: Dungeoneers Ground_1737
+  - first:
+      213: -7230955619963676585
+    second: Dungeoneers Ground_1738
+  - first:
+      213: 7177330935607309275
+    second: Dungeoneers Ground_1739
+  - first:
+      213: -3885366362251128191
+    second: Dungeoneers Ground_1740
+  - first:
+      213: -5885123379811961871
+    second: Dungeoneers Ground_1741
+  - first:
+      213: 5455344286832696403
+    second: Dungeoneers Ground_1742
+  - first:
+      213: -6847213002550817100
+    second: Dungeoneers Ground_1743
+  - first:
+      213: -9152326615299859697
+    second: Dungeoneers Ground_1744
+  - first:
+      213: -54982274524984853
+    second: Dungeoneers Ground_1745
+  - first:
+      213: 8896684042389368656
+    second: Dungeoneers Ground_1746
+  - first:
+      213: -6109439827606532232
+    second: Dungeoneers Ground_1747
+  - first:
+      213: -1685528393042742839
+    second: Dungeoneers Ground_1748
+  - first:
+      213: 97742587519881228
+    second: Dungeoneers Ground_1749
+  - first:
+      213: 4825004299730869849
+    second: Dungeoneers Ground_1750
+  - first:
+      213: -798451439159987671
+    second: Dungeoneers Ground_1751
+  - first:
+      213: 7290691760192268982
+    second: Dungeoneers Ground_1752
+  - first:
+      213: -7262507500937977074
+    second: Dungeoneers Ground_1753
+  - first:
+      213: -2822466339245314325
+    second: Dungeoneers Ground_1754
+  - first:
+      213: 3555838618453435418
+    second: Dungeoneers Ground_1755
+  - first:
+      213: -5028305190531427330
+    second: Dungeoneers Ground_1756
+  - first:
+      213: -8784964422321299329
+    second: Dungeoneers Ground_1757
+  - first:
+      213: -7859244784998297137
+    second: Dungeoneers Ground_1758
+  - first:
+      213: 838916096395533727
+    second: Dungeoneers Ground_1759
+  - first:
+      213: -377565091830227405
+    second: Dungeoneers Ground_1760
+  - first:
+      213: -2045052817582156550
+    second: Dungeoneers Ground_1761
+  - first:
+      213: 7488015390743877256
+    second: Dungeoneers Ground_1762
+  - first:
+      213: -317033524824850760
+    second: Dungeoneers Ground_1763
+  - first:
+      213: 6533844087900447796
+    second: Dungeoneers Ground_1764
+  - first:
+      213: -1882762345424921011
+    second: Dungeoneers Ground_1765
+  - first:
+      213: 3900328868066747294
+    second: Dungeoneers Ground_1766
+  - first:
+      213: -3692364930843031547
+    second: Dungeoneers Ground_1767
+  - first:
+      213: 8359952720364344440
+    second: Dungeoneers Ground_1768
+  - first:
+      213: 4845766569297157748
+    second: Dungeoneers Ground_1769
+  - first:
+      213: -2817315690555155080
+    second: Dungeoneers Ground_1770
+  - first:
+      213: 4633555683621593924
+    second: Dungeoneers Ground_1771
+  - first:
+      213: 4679212618930928588
+    second: Dungeoneers Ground_1772
+  - first:
+      213: -828601909096238912
+    second: Dungeoneers Ground_1773
+  - first:
+      213: 6897024585026040982
+    second: Dungeoneers Ground_1774
+  - first:
+      213: 5533197625841076336
+    second: Dungeoneers Ground_1775
+  - first:
+      213: 632361896684654985
+    second: Dungeoneers Ground_1776
+  - first:
+      213: -2157385229686566383
+    second: Dungeoneers Ground_1777
+  - first:
+      213: 4784266854343702025
+    second: Dungeoneers Ground_1778
+  - first:
+      213: -4564373268851869709
+    second: Dungeoneers Ground_1779
+  - first:
+      213: -5897442839280592494
+    second: Dungeoneers Ground_1780
+  - first:
+      213: 1337216929461272781
+    second: Dungeoneers Ground_1781
+  - first:
+      213: -3015065265205169534
+    second: Dungeoneers Ground_1782
+  - first:
+      213: -4111947639210962273
+    second: Dungeoneers Ground_1783
+  - first:
+      213: -6520761574565113047
+    second: Dungeoneers Ground_1784
+  - first:
+      213: 450170418848950507
+    second: Dungeoneers Ground_1785
+  - first:
+      213: -3692106566290692508
+    second: Dungeoneers Ground_1786
+  - first:
+      213: 354882220505537307
+    second: Dungeoneers Ground_1787
+  - first:
+      213: -7744691475049486768
+    second: Dungeoneers Ground_1788
+  - first:
+      213: 5774814677563662140
+    second: Dungeoneers Ground_1789
+  - first:
+      213: -5515573714940067206
+    second: Dungeoneers Ground_1790
+  - first:
+      213: 5331224367853496823
+    second: Dungeoneers Ground_1791
+  - first:
+      213: 4705907623703867318
+    second: Dungeoneers Ground_1792
+  - first:
+      213: 5123908496740469384
+    second: Dungeoneers Ground_1793
+  - first:
+      213: 7113932969344030192
+    second: Dungeoneers Ground_1794
+  - first:
+      213: 7594568049886829255
+    second: Dungeoneers Ground_1795
+  - first:
+      213: -7676495122369820360
+    second: Dungeoneers Ground_1796
+  - first:
+      213: 6845884645004734645
+    second: Dungeoneers Ground_1797
+  - first:
+      213: -8637055910441397430
+    second: Dungeoneers Ground_1798
+  - first:
+      213: -5196281734956724508
+    second: Dungeoneers Ground_1799
+  - first:
+      213: 2836213077695596110
+    second: Dungeoneers Ground_1800
+  - first:
+      213: 5230048297754502893
+    second: Dungeoneers Ground_1801
+  - first:
+      213: -1271223430021569265
+    second: Dungeoneers Ground_1802
+  - first:
+      213: -290235615207765258
+    second: Dungeoneers Ground_1803
+  - first:
+      213: 8396857737247547193
+    second: Dungeoneers Ground_1804
+  - first:
+      213: -664686356632089703
+    second: Dungeoneers Ground_0
+  - first:
+      213: 3086247352046463691
+    second: Dungeoneers Ground_1
+  - first:
+      213: 6091445811187476771
+    second: Dungeoneers Ground_2
+  - first:
+      213: -7615930777615733486
+    second: Dungeoneers Ground_3
+  - first:
+      213: -4219875117038248123
+    second: Dungeoneers Ground_4
+  - first:
+      213: 7363351125335405584
+    second: Dungeoneers Ground_5
+  - first:
+      213: 6761331019706740815
+    second: Dungeoneers Ground_6
+  - first:
+      213: -4275832836115705613
+    second: Dungeoneers Ground_7
+  - first:
+      213: -5099806892628616851
+    second: Dungeoneers Ground_8
+  - first:
+      213: 6648970405862339720
+    second: Dungeoneers Ground_9
+  - first:
+      213: 2429636081507254582
+    second: Dungeoneers Ground_10
+  - first:
+      213: -3590022275732522874
+    second: Dungeoneers Ground_11
+  - first:
+      213: -2376095945027450337
+    second: Dungeoneers Ground_12
+  - first:
+      213: -6222379730331734402
+    second: Dungeoneers Ground_13
+  - first:
+      213: -4251844897353678388
+    second: Dungeoneers Ground_14
+  - first:
+      213: -7537439400752821482
+    second: Dungeoneers Ground_15
+  - first:
+      213: -6616624542927887118
+    second: Dungeoneers Ground_16
+  - first:
+      213: 6566737617194731522
+    second: Dungeoneers Ground_17
+  - first:
+      213: 1253694453190153131
+    second: Dungeoneers Ground_18
+  - first:
+      213: -2143830571857043065
+    second: Dungeoneers Ground_19
+  - first:
+      213: -4669285511686192348
+    second: Dungeoneers Ground_20
+  - first:
+      213: 7729821945036041219
+    second: Dungeoneers Ground_21
+  - first:
+      213: -2140307469212378532
+    second: Dungeoneers Ground_22
+  - first:
+      213: 4313755192776477640
+    second: Dungeoneers Ground_23
+  - first:
+      213: 5906408309132717844
+    second: Dungeoneers Ground_24
+  - first:
+      213: 1650598339439772636
+    second: Dungeoneers Ground_25
+  - first:
+      213: 719878180711599346
+    second: Dungeoneers Ground_26
+  - first:
+      213: 5700152113586541830
+    second: Dungeoneers Ground_27
+  - first:
+      213: 3841624927253578734
+    second: Dungeoneers Ground_28
+  - first:
+      213: -8900404205653234323
+    second: Dungeoneers Ground_29
+  - first:
+      213: 5688309835267267930
+    second: Dungeoneers Ground_30
+  - first:
+      213: -5760131868283998933
+    second: Dungeoneers Ground_31
+  - first:
+      213: 5811548434457328185
+    second: Dungeoneers Ground_32
+  - first:
+      213: -5980836583634505272
+    second: Dungeoneers Ground_33
+  - first:
+      213: 47279215380780624
+    second: Dungeoneers Ground_34
+  - first:
+      213: -6982278061847501080
+    second: Dungeoneers Ground_35
+  - first:
+      213: 693593909852853558
+    second: Dungeoneers Ground_36
+  - first:
+      213: 3816281932123567028
+    second: Dungeoneers Ground_37
+  - first:
+      213: 1535911137541976111
+    second: Dungeoneers Ground_38
+  - first:
+      213: 1020859061568840718
+    second: Dungeoneers Ground_39
+  - first:
+      213: -2372339038540922298
+    second: Dungeoneers Ground_40
+  - first:
+      213: 4588838383814832838
+    second: Dungeoneers Ground_41
+  - first:
+      213: 6620632166846694215
+    second: Dungeoneers Ground_42
+  - first:
+      213: 8412073228492657597
+    second: Dungeoneers Ground_43
+  - first:
+      213: -2757161720844644393
+    second: Dungeoneers Ground_44
+  - first:
+      213: 3014580422792051277
+    second: Dungeoneers Ground_45
+  - first:
+      213: 6197291244136338245
+    second: Dungeoneers Ground_46
+  - first:
+      213: -431059044282994761
+    second: Dungeoneers Ground_47
+  - first:
+      213: -4476677323445152666
+    second: Dungeoneers Ground_48
+  - first:
+      213: -8244530447003594190
+    second: Dungeoneers Ground_49
+  - first:
+      213: 1603566990189650682
+    second: Dungeoneers Ground_50
+  - first:
+      213: -7595001043695130062
+    second: Dungeoneers Ground_51
+  - first:
+      213: 6494369464296820304
+    second: Dungeoneers Ground_52
+  - first:
+      213: 8315543122474230028
+    second: Dungeoneers Ground_53
+  - first:
+      213: 5485279250279972484
+    second: Dungeoneers Ground_54
+  - first:
+      213: 4999064949679811979
+    second: Dungeoneers Ground_55
+  - first:
+      213: 78769694750403786
+    second: Dungeoneers Ground_56
+  - first:
+      213: 5230238844419925565
+    second: Dungeoneers Ground_57
+  - first:
+      213: 5484814535775750463
+    second: Ground_Housebrick_Floor
+  - first:
+      213: 880937586795215994
+    second: Ground_Housebrick_Window_NE
+  - first:
+      213: 8221904254788300887
+    second: Ground_Flower_Red_2
+  - first:
+      213: -3581307003287623767
+    second: Ground_Flower_Yellow_1
+  - first:
+      213: 6108025782624026970
+    second: Ground_Flower_Yellow_2
+  - first:
+      213: -5501816455363431490
+    second: Ground_Flower_Pink_1
+  - first:
+      213: -8799623013525120286
+    second: Ground_Flower_Gray_2
+  - first:
+      213: 6559112425605254043
+    second: Ground_Flower_Gray_1
+  - first:
+      213: 2310168559438510973
+    second: Ground Tiles_8
+  - first:
+      213: 8709031863452526864
+    second: Ground Tiles_9
+  - first:
+      213: -8773495775090693803
+    second: Ground Tiles_10
+  - first:
+      213: -9171982422650099056
+    second: Ground Tiles_11
+  - first:
+      213: -608052845395172951
+    second: Ground Tiles_12
+  - first:
+      213: -3028856867599447354
+    second: Ground Tiles_13
+  - first:
+      213: -5642000995343161925
+    second: Ground Tiles_14
+  - first:
+      213: 3416467757447758704
+    second: Ground Tiles_15
+  - first:
+      213: 5212491238638280124
+    second: Ground Tiles_16
+  - first:
+      213: -4515870918384255724
+    second: Ground Tiles_17
+  - first:
+      213: -65957143718137417
+    second: Ground Tiles_18
+  - first:
+      213: -1505788542239083584
+    second: Ground Tiles_19
+  - first:
+      213: 6350945099562333605
+    second: Ground Tiles_20
+  - first:
+      213: -2228440017326911890
+    second: Ground Tiles_21
+  - first:
+      213: -5390801767711237299
+    second: Ground Tiles_22
+  - first:
+      213: 1576826610222634888
+    second: Ground Tiles_23
+  - first:
+      213: 1719141079635749289
+    second: Ground Tiles_24
+  - first:
+      213: -2647073818841510582
+    second: Ground Tiles_25
+  - first:
+      213: -5525437018030772342
+    second: Ground Tiles_26
+  - first:
+      213: 2541712132039202831
+    second: Ground Tiles_27
+  - first:
+      213: -6286951092489838626
+    second: Ground Tiles_28
+  - first:
+      213: -3081984562899111034
+    second: Ground Tiles_29
+  - first:
+      213: -3059924937847760656
+    second: Ground Tiles_30
+  - first:
+      213: 2673571369464066808
+    second: Ground Tiles_31
+  - first:
+      213: -8842193991806090058
+    second: Ground Tiles_32
+  - first:
+      213: -990400826082615054
+    second: Ground Tiles_33
+  - first:
+      213: 7015630576588896424
+    second: Ground Tiles_34
+  - first:
+      213: 3462967477054576941
+    second: Ground Tiles_35
+  - first:
+      213: 2541924808577717159
+    second: Ground Tiles_36
+  - first:
+      213: 2363318123035301550
+    second: Ground Tiles_37
+  - first:
+      213: -927096716288622622
+    second: Ground Tiles_38
+  - first:
+      213: -7678016940528829101
+    second: Ground Tiles_39
+  - first:
+      213: -1889105713412577537
+    second: Ground Tiles_40
+  - first:
+      213: 2239384925616073359
+    second: Ground Tiles_41
+  - first:
+      213: -4187980457069687267
+    second: Ground Tiles_42
+  - first:
+      213: 3200195984338438060
+    second: Ground Tiles_43
+  - first:
+      213: 37399993003111669
+    second: Ground Tiles_44
+  - first:
+      213: -3328124443252421152
+    second: Ground Tiles_45
+  - first:
+      213: 5066901780074003344
+    second: Ground Tiles_46
+  - first:
+      213: 4188741117301840969
+    second: Ground Tiles_47
+  - first:
+      213: 4047079020315404147
+    second: Ground_Housebrick_Window_NW
+  - first:
+      213: 2561161991346439193
+    second: Ground_Housebrick
+  - first:
+      213: -9219036314215253904
+    second: Ground_Housebrick_Window_SW
+  - first:
+      213: -6561044310337238564
+    second: Ground_Housebrick_Window_SE
+  - first:
+      213: -1250144954978591375
+    second: Ground_Darkstone_Hole_NW
+  - first:
+      213: -2465699619680975183
+    second: Ground_Darkstone_Hole_N
+  - first:
+      213: -5035583254536590801
+    second: Ground_Darkstone_Hole_NE
+  - first:
+      213: 1672671419469106260
+    second: Ground_Darkstone_Hole_SW
+  - first:
+      213: -8292041768002977607
+    second: Ground_Darkstone_Hole_S
+  - first:
+      213: 1013453373943549656
+    second: Ground_Darkstone_Hole_SE
+  - first:
+      213: 3869590426653637337
+    second: Ground_Flower_Pink_2
+  - first:
+      213: 2595058660594991289
+    second: Ground_Flower_Red_1
+  - first:
+      213: 7340605134738215808
+    second: Ground_Flower_Pink_2
+  - first:
+      213: 7340605134738215808
+    second: Ground_Brick_Window_N
+  - first:
+      213: 2882164769015284091
+    second: Ground_Snow
+  - first:
+      213: 9053633196418269788
+    second: Ground_Sand
+  - first:
+      213: -8213089484991038849
+    second: Ground_Sand_Floor
+  - first:
+      213: 922004717843380124
+    second: Ground_Brick_Window_N
+  - first:
+      213: -163878097907626954
+    second: Ground Tiles_1
+  - first:
+      213: -7502106950513667563
+    second: Ground_Snow
+  - first:
+      213: 928692096805362024
+    second: Ground_Sand
+  - first:
+      213: -7029037915440404014
+    second: Ground_Snow_Floor
+  - first:
+      213: 404732286961721451
+    second: Ground Tiles_5
+  - first:
+      213: 922004717843380124
+    second: Ground_Brick_Window_S
+  - first:
+      213: 1601954807077532448
+    second: Ground_Darkstone_Hole_W
+  - first:
+      213: -1815616032367432165
+    second: Ground_Darkstone_Hole_E
+  - first:
+      213: -227244766052586602
+    second: Ground_Housebrick_Window_N
+  - first:
+      213: 8055280092073671791
+    second: Ground_Housebrick_Window_S
+  - first:
+      213: 2853538774495164994
+    second: Ground_Housebrick_Window_W
+  - first:
+      213: -53444522365379379
+    second: Ground_Housebrick_Window_E
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground_Brick_Floor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd5c20191c282ec0800000000000000
+      internalID: -3591572216670822957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Clearstone_Floor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1b10126e647f040800000000000000
+      internalID: 4681288291885101525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Darkstone_Floor
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347e06f696bcd380800000000000000
+      internalID: -8945074000375155664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Brick_Window_NW
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5664b0ed5c3a05ed0800000000000000
+      internalID: -2427260128923531675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Brick_Window_NE
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a227b5a7fce2075d0800000000000000
+      internalID: -3066899877593386454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Brick_Window_W
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5128e7e90cd23b0800000000000000
+      internalID: -5535556580008651309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Brick_Window_E
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2fc353fe36912e0800000000000000
+      internalID: -2154581067678551380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Brick
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c52e66e32e82a530800000000000000
+      internalID: 3864807715078284740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Brick_Bridge
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceda621ab35ca8e0800000000000000
+      internalID: -1680876502278021426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Clearstone
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb457d251786d280800000000000000
+      internalID: -9018872678736114709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Darkstone
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d56e6b0d3231f0800000000000000
+      internalID: -1066723042427284823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Brick_Window_SW
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3412d96c18045a9d0800000000000000
+      internalID: -2763731870194785981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Brick_Window_SE
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20af4e5539dd634c0800000000000000
+      internalID: -4308012368662300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Wood_Bridge
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68bcb42a0cb87390800000000000000
+      internalID: -7820294001176823697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Log_Down
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292db2456cced6b0800000000000000
+      internalID: -5269549778693445329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Soil_Grass
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f368a4057c1ce89a0800000000000000
+      internalID: -6228828172817103297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Soil_Floor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6795c4c92ed04fe50800000000000000
+      internalID: 6842109000818645366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Leaves_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab407c3735af5e90800000000000000
+      internalID: -7034722436273648725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Wood
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6cd415c669db5f0800000000000000
+      internalID: -739269371854207320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Log_Up
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c4e293a51bd470800000000000000
+      internalID: 8420347720587592284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Soil
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b2ab61f872d5d00800000000000000
+      internalID: 962969390842260240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Leaves_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700c5c9cea50f6410800000000000000
+      internalID: 1472401851441070087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Ice_Floor
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94a3f96ff6dcf300800000000000000
+      internalID: 287340868727448734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Ice
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ccd94dc0663b780800000000000000
+      internalID: -8668472652465320837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Wheat
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7020e00d422f3e5d0800000000000000
+      internalID: -3034315483994258937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Palette
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66fb62bbde47ae00800000000000000
+      internalID: 1055899343139894891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Vines_Top
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb54305c317fa4e0800000000000000
+      internalID: -1968230008280032332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Vines_Small
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37f5507df4c7ca0800000000000000
+      internalID: -6017847217147120695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Grime_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b08d1af3dc33e570800000000000000
+      internalID: 8494700203282890932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Vines
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ace00b01aecaa50800000000000000
+      internalID: 6533854516801882671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Blood
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00010205ed62e820800000000000000
+      internalID: 2946037936602284044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Grime_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 8, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5338d1c61b9120800000000000000
+      internalID: 2421554246453517313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Housebrick_Floor
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3900dfa2c9fd1c40800000000000000
+      internalID: 5484814535775750463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Housebrick
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377e5d73dec1a2830800000000000000
+      internalID: 4047079020315404147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Housebrick_Window_NE
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf73a5118b93c00800000000000000
+      internalID: 880937586795215994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Housebrick_Window_NW
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914cf62f2431b8320800000000000000
+      internalID: 2561161991346439193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Housebrick_Window_SW
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078f5c711576f0080800000000000000
+      internalID: -9219036314215253904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Housebrick_Window_SE
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd940ce26fc72f4a0800000000000000
+      internalID: -6561044310337238564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Darkstone_Hole_NW
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d11c879c796aee0800000000000000
+      internalID: -1250144954978591375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Darkstone_Hole_N
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 24, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6891e724318cdd0800000000000000
+      internalID: -2465699619680975183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Darkstone_Hole_NE
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ae07ca5b30e1ab0800000000000000
+      internalID: -5035583254536590801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Darkstone_Hole_SW
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c87673bc5863710800000000000000
+      internalID: 1672671419469106260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Darkstone_Hole_S
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b00b73f1ffbcec80800000000000000
+      internalID: -8292041768002977607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Darkstone_Hole_SE
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de835e5972801e00800000000000000
+      internalID: 1013453373943549656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Flower_Pink_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da31f6bdfb83b530800000000000000
+      internalID: 3869590426653637337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Flower_Red_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0c0144a10830420800000000000000
+      internalID: 2595058660594991289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Flower_Red_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 8, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750fde3bb521a1270800000000000000
+      internalID: 8221904254788300887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Flower_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 8, z: 8, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a72c6d4144ac4ec0800000000000000
+      internalID: -3581307003287623767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Flower_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 8, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a518b3c661114c450800000000000000
+      internalID: 6108025782624026970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Flower_Pink_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 16, z: 12, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3f9ae651f95a3b0800000000000000
+      internalID: -5501816455363431490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Flower_Gray_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 0, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea9b79dd7571e580800000000000000
+      internalID: -8799623013525120286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Flower_Gray_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 12, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b4d0adff5a60b50800000000000000
+      internalID: 6559112425605254043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Sand_Floor
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7afc92d0ae350e80800000000000000
+      internalID: -8213089484991038849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Snow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d4a3f97923e790800000000000000
+      internalID: -7502106950513667563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Sand
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869dbc7aa8063ec00800000000000000
+      internalID: 928692096805362024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Snow_Floor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d92c61e147d37e90800000000000000
+      internalID: -7029037915440404014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Brick_Window_N
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 20, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083da745a711fd560800000000000000
+      internalID: 7340605134738215808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Brick_Window_S
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97f948e76e9bcc00800000000000000
+      internalID: 922004717843380124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Darkstone_Hole_W
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 24, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023f516d8694b3610800000000000000
+      internalID: 1601954807077532448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Darkstone_Hole_E
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e2c3e86d2adc6e0800000000000000
+      internalID: -1815616032367432165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Housebrick_Window_N
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 16, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b6e5ad61aa8dcf0800000000000000
+      internalID: -227244766052586602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Housebrick_Window_S
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb356a09a1acf60800000000000000
+      internalID: 8055280092073671791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Housebrick_Window_W
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 16, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a769e856ec99720800000000000000
+      internalID: 2853538774495164994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Housebrick_Window_E
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 575
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 16, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc98357d70224ff0800000000000000
+      internalID: -53444522365379379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

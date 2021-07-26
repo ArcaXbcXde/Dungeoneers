@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07be1fd296709274283217771de3970e, type: 3}
+  m_Name: Drone
+  m_EditorClassIdentifier: 
+  spriteMale: {fileID: 5308587656201209282, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  spriteFemale: {fileID: 5308587656201209282, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  id: 0
+  pos: 240
+  charName: Drone
+  race: 6
+  hpMax: 20
+  hpRegen: 0
+  defenses:
+    baseDefense: 1
+    shieldMax: 1
+    pierce: 1
+    cut: 1
+    blunt: -1
+    explosive: -2
+    water: -1
+    fire: -1
+    earth: -1
+    air: 3
+  enMax: 200
+  enRegen: 2
+  movSpd: 25
+  jumpStrength: 25
+  jump: 1
+  jumpTwice: 0
+  jumpWall: 0
+  jumpFly: 1
+  ability1: {fileID: 0}
+  ability2: {fileID: 0}
+  ability3: {fileID: 0}

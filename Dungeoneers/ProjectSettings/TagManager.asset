@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PlayerProjectile
+  - EnemyProjectile
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Background
+  - Foreground
+  - Projectiles
+  - Player
+  - Enemies
+  - Props
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Scenario
+    uniqueID: 3146630483
+    locked: 0
+  - name: Scenario Details
+    uniqueID: 591307023
+    locked: 0
+  - name: Parallax 2
+    uniqueID: 709582639
+    locked: 0
+  - name: Parallax 1
+    uniqueID: 3473101839
+    locked: 0
+  - name: Background
+    uniqueID: 393618191
+    locked: 0
+  - name: Background Details
+    uniqueID: 534499935
+    locked: 0
+  - name: Ground
+    uniqueID: 2473372829
+    locked: 0
+  - name: Ground Details
+    uniqueID: 755232973
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2272629087
+    locked: 0
+  - name: Foreground Details
+    uniqueID: 1491640761
+    locked: 0

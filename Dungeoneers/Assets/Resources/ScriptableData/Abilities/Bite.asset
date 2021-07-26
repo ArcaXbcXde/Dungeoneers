@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 876106df8e81c0e4e8904741af7dcda3, type: 3}
+  m_Name: Bite
+  m_EditorClassIdentifier: 
+  abilityName: Bite
+  typeOfDamage: 4
+  elementOfDamage: 0
+  damage: 15
+  critChance: 3
+  cost: 5
+  burnout: 15
+  cooldown: 1.5
+  distance: 1
+  disableTime: 0
+  reach: 1
+  speed: {x: 0, y: 0}
+  acceleration: {x: 0, y: 0}
+  coloration: {r: 0.75294125, g: 0.7568628, b: 0.75294125, a: 1}
+  icon: {fileID: 21300000, guid: 5c8a1e08f3edee24db4554aeec8422d9, type: 3}
+  sprite: {fileID: 1227073722696264794, guid: 7766cee749e85484ab7e6804aa88ec00, type: 3}
+  user: {fileID: 0}

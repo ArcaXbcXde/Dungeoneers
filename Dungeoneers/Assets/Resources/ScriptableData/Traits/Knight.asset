@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b907461446de64e964d5417c4cfa53, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  traitName: Knight
+  traitedEntities:
+  - {fileID: 11400000, guid: 65267f4e176baa845b167953e1743546, type: 2}
+  - {fileID: 11400000, guid: 172be4c89053a7e4ea7da698aae6cbad, type: 2}
+  - {fileID: 11400000, guid: dea1fc79fe1074040b6bcceed6da7855, type: 2}
+  - {fileID: 11400000, guid: ddb7a69392cf2d041a0e7d86d766d008, type: 2}
+  - {fileID: 11400000, guid: 4d7923214904411419f346f9b711f208, type: 2}
+  - {fileID: 11400000, guid: f57eb68ed0110a840835bcc6e9ddafa9, type: 2}
+  - {fileID: 11400000, guid: 14809ed8b2a6fd74dbb08de7e5f60c29, type: 2}

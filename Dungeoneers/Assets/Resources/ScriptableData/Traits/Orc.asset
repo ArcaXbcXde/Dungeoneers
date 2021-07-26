@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b907461446de64e964d5417c4cfa53, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  traitName: Orc
+  traitedEntities:
+  - {fileID: 11400000, guid: bbc68a84e38070147837730f8822ced7, type: 2}
+  - {fileID: 11400000, guid: e3ecc84db7dd6f3409ad5339d61d1264, type: 2}
+  - {fileID: 11400000, guid: efac8f95f0600c842b21ea73f880d685, type: 2}
+  - {fileID: 11400000, guid: 386be89c14a6d7c4397d98f4da5cce93, type: 2}
+  - {fileID: 11400000, guid: e38e02522a22ee44baf8bd7ac56b5d4f, type: 2}
+  - {fileID: 11400000, guid: 7f0a32a7d6db57848a37ac903ac9c3f5, type: 2}
+  - {fileID: 11400000, guid: 5fda988f02a464449b1f29fe1fcf1953, type: 2}
+  - {fileID: 11400000, guid: 06d2a14e441861e498918dde6667cbb1, type: 2}

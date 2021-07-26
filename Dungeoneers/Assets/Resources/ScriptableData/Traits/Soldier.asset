@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b907461446de64e964d5417c4cfa53, type: 3}
+  m_Name: Soldier
+  m_EditorClassIdentifier: 
+  traitName: Soldier
+  traitedEntities:
+  - {fileID: 11400000, guid: 521f46d243599754ca72580682e9c386, type: 2}
+  - {fileID: 11400000, guid: 83df277dbb885104b947f1845e416c95, type: 2}
+  - {fileID: 11400000, guid: 6ffdf441033934144aeb9947e9606a36, type: 2}
+  - {fileID: 11400000, guid: 608913b4ddc50e54793a7b1cbd121327, type: 2}
+  - {fileID: 11400000, guid: f3fff327141b334408bd470812d63f39, type: 2}
+  - {fileID: 11400000, guid: 4023638142a161e4b8a0fbacc21007ca, type: 2}
+  - {fileID: 11400000, guid: fd3f5c660b675744483de61df20a5339, type: 2}
+  - {fileID: 11400000, guid: fc129bf4298469244b358365bd4a0a01, type: 2}

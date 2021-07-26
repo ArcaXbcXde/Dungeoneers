@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b907461446de64e964d5417c4cfa53, type: 3}
+  m_Name: Monster
+  m_EditorClassIdentifier: 
+  traitName: Monster
+  traitedEntities:
+  - {fileID: 11400000, guid: bf43e44259b14ce48b3adbafebe0eada, type: 2}
+  - {fileID: 11400000, guid: 69a96099de1078c41bec2e53defbb38a, type: 2}
+  - {fileID: 11400000, guid: 9086a18802023c24d86dfea00569d2da, type: 2}
+  - {fileID: 11400000, guid: a2bdefe14d24994449ccfb4cb69b1576, type: 2}
+  - {fileID: 11400000, guid: 89ef2a231639a564c8be6b60cd75b684, type: 2}
+  - {fileID: 11400000, guid: 8de297b664253cb488f92208c89dbe49, type: 2}
+  - {fileID: 11400000, guid: c187705b4f476c2448a97192911921e0, type: 2}
+  - {fileID: 11400000, guid: 5158da8eb7b72794ea2cedeafee56373, type: 2}
+  - {fileID: 11400000, guid: cd5553eff0a6f28449cf8bd3679a1705, type: 2}
+  - {fileID: 11400000, guid: cac3d28cb22a74b40ac1701cb3ecb49e, type: 2}
+  - {fileID: 11400000, guid: a161ce1bd2903af43aa0d126c7113b9a, type: 2}
+  - {fileID: 11400000, guid: c41a2bccee5cfa34e805eca7ad646127, type: 2}
+  - {fileID: 11400000, guid: 66b19e9b9020ffa4d961b4165fb07f58, type: 2}

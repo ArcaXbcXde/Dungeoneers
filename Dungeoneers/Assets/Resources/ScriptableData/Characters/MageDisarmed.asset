@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07be1fd296709274283217771de3970e, type: 3}
+  m_Name: MageDisarmed
+  m_EditorClassIdentifier: 
+  spriteMale: {fileID: -4809755664239558939, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  spriteFemale: {fileID: 8488313108336699672, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  id: 5
+  pos: 24
+  charName: Mage Disarmed
+  race: 0
+  hpMax: 40
+  hpRegen: 0.4
+  defenses:
+    baseDefense: 0
+    shieldMax: 0
+    pierce: -1
+    cut: -1
+    blunt: -1
+    explosive: 1
+    water: 1
+    fire: 1
+    earth: 1
+    air: 1
+  enMax: 100
+  enRegen: 20
+  movSpd: 20
+  jumpStrength: 18
+  jump: 1
+  jumpTwice: 0
+  jumpWall: 0
+  jumpFly: 0
+  ability1: {fileID: 11400000, guid: 9a351527a423f2c4a805be12895dea7c, type: 2}
+  ability2: {fileID: 11400000, guid: 47c619e83e320614a900190b87960331, type: 2}
+  ability3: {fileID: 11400000, guid: 6c9bff868a79ee34780001c093023f27, type: 2}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07be1fd296709274283217771de3970e, type: 3}
+  m_Name: SoldierDoublePistol
+  m_EditorClassIdentifier: 
+  spriteMale: {fileID: -2845618709215660663, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  spriteFemale: {fileID: 3589427808017437214, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  id: 112
+  pos: 89
+  charName: Soldier Rusher
+  race: 0
+  hpMax: 55
+  hpRegen: 0.55
+  defenses:
+    baseDefense: 1
+    shieldMax: 1
+    pierce: 2
+    cut: 1
+    blunt: -1
+    explosive: -1
+    water: 2
+    fire: -1
+    earth: 1
+    air: 0
+  enMax: 30
+  enRegen: 10
+  movSpd: 21
+  jumpStrength: 18
+  jump: 1
+  jumpTwice: 0
+  jumpWall: 0
+  jumpFly: 0
+  ability1: {fileID: 0}
+  ability2: {fileID: 0}
+  ability3: {fileID: 0}

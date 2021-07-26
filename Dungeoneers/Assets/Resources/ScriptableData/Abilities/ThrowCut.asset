@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 876106df8e81c0e4e8904741af7dcda3, type: 3}
+  m_Name: ThrowCut
+  m_EditorClassIdentifier: 
+  abilityName: Throw cut
+  typeOfDamage: 4
+  elementOfDamage: 0
+  damage: 20
+  critChance: 0
+  cost: 20
+  burnout: 100
+  cooldown: 4
+  distance: 1
+  disableTime: 0
+  reach: -59
+  speed: {x: 40, y: 0}
+  acceleration: {x: -200, y: 0}
+  coloration: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+  icon: {fileID: 21300000, guid: e372f900af738dc4cb0aa1610e1b8b82, type: 3}
+  sprite: {fileID: 3019826825610182889, guid: 123851e765112714084ac524c09f49c4, type: 3}
+  user: {fileID: 0}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07be1fd296709274283217771de3970e, type: 3}
+  m_Name: ScoutDagger
+  m_EditorClassIdentifier: 
+  spriteMale: {fileID: 3969824749632598235, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  spriteFemale: {fileID: 8145381307402899531, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  id: 4
+  pos: 15
+  charName: Scout Rogue
+  race: 0
+  hpMax: 50
+  hpRegen: 0.5
+  defenses:
+    baseDefense: 0
+    shieldMax: 0
+    pierce: 0
+    cut: 0
+    blunt: 0
+    explosive: 0
+    water: 0
+    fire: 0
+    earth: 0
+    air: 0
+  enMax: 40
+  enRegen: 10
+  movSpd: 20
+  jumpStrength: 18
+  jump: 1
+  jumpTwice: 0
+  jumpWall: 0
+  jumpFly: 0
+  ability1: {fileID: 11400000, guid: 0e737f441927b2545ae0a741458e9b99, type: 2}
+  ability2: {fileID: 11400000, guid: 69034f76342d40548a5d49fd8fda8e95, type: 2}
+  ability3: {fileID: 0}

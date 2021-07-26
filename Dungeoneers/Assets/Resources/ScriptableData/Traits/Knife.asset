@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b907461446de64e964d5417c4cfa53, type: 3}
+  m_Name: Knife
+  m_EditorClassIdentifier: 
+  traitName: Knife
+  traitedEntities:
+  - {fileID: 11400000, guid: 1ffe4000a96435744aab573f05aeb2ba, type: 2}
+  - {fileID: 11400000, guid: 103810b67af4ff74b88b96989322e7f2, type: 2}
+  - {fileID: 11400000, guid: dfc58279a15fcdb47ad7970cc7252dec, type: 2}
+  - {fileID: 11400000, guid: c184d37a2e6ff0146a0f10ff7444f1c1, type: 2}
+  - {fileID: 11400000, guid: e4ec14c8ebbafc94c8ac55c689373534, type: 2}
+  - {fileID: 11400000, guid: 7fb6ad6f84db2a642a2687656dcba3f7, type: 2}

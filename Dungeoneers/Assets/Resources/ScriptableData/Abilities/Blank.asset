@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 876106df8e81c0e4e8904741af7dcda3, type: 3}
+  m_Name: Blank
+  m_EditorClassIdentifier: 
+  abilityName: Blank
+  abilityType: 0
+  damage: 0
+  cost: 0
+  burnout: 0
+  cooldown: 0
+  distance: 0
+  speed: {x: 0, y: 0}
+  coloration: {r: 1, g: 1, b: 1, a: 1}
+  icon: {fileID: 21300000, guid: 8377e5c5d4a6a7f4aa2aea7aea629481, type: 3}
+  sprite: {fileID: 710066986173967270, guid: a885cbf9e825ba24fad9e7c52d84d708, type: 3}
+  user: {fileID: 0}

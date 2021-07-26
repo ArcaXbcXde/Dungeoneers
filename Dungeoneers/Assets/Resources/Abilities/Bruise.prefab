@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &91226555371629714
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -7374162003686735970, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 5343675387449238352, guid: 5e59872feb7af444b89ce9a9f0dd075b,
+        type: 3}
+    - target: {fileID: -7374162003686735970, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 1.3333334
+      objectReference: {fileID: 0}
+    - target: {fileID: -7374162003686735970, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.3333334
+      objectReference: {fileID: 0}
+    - target: {fileID: -7374162003686735970, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7374162003686735970, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7374162003686735970, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7374162003686735970, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2531778273116717903, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 5a4f744ac4f4bba41a958bace010c8bc, type: 2}
+    - target: {fileID: 710066986173967270, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_Name
+      value: Bruise
+      objectReference: {fileID: 0}
+    - target: {fileID: 710066986173967270, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 1010048090893107078, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1010048090893107078, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1010048090893107078, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1010048090893107078, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1015421555699571789, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.3333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 1015421555699571789, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1.3333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 1015421555699571789, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1.3333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 1015421555699571789, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1.3333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599280550605116619, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: disableTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599280550605116619, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: destroyOnCollision
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599280550605116619, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: damage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599280550605116619, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: otherDestroyable
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7599280550605116619, guid: a885cbf9e825ba24fad9e7c52d84d708,
+        type: 3}
+      propertyPath: momentumMultiplier
+      value: 0.3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a885cbf9e825ba24fad9e7c52d84d708, type: 3}

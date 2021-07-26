@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9bfba26e08a6b4440b7b8386e7e36824
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - physicsMaterial: {fileID: 6200000, guid: 8fadebf66afbb6946af2a75e488174ba, type: 2}
+  - character: {instanceID: 0}
+  - hpBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

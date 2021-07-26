@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07be1fd296709274283217771de3970e, type: 3}
+  m_Name: MermaidDisarmed
+  m_EditorClassIdentifier: 
+  spriteMale: {fileID: -6780320773776695651, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  spriteFemale: {fileID: -32957750469376533, guid: 73a01927df5e63e42a16985dc21c3f8e,
+    type: 3}
+  id: 157
+  pos: 133
+  charName: Mermaid Disarmed
+  race: 5
+  hpMax: 70
+  hpRegen: 0.7
+  defenses:
+    baseDefense: 1
+    shieldMax: 0
+    pierce: -1
+    cut: -2
+    blunt: 1
+    explosive: 1
+    water: 6
+    fire: 3
+    earth: -3
+    air: -2
+  enMax: 100
+  enRegen: 20
+  movSpd: 20
+  jumpStrength: 18
+  jump: 1
+  jumpTwice: 0
+  jumpWall: 0
+  jumpFly: 0
+  ability1: {fileID: 11400000, guid: 38a506571faf66e42904f3bfa0a3a071, type: 2}
+  ability2: {fileID: 0}
+  ability3: {fileID: 0}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b907461446de64e964d5417c4cfa53, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  traitName: Sword
+  traitedEntities:
+  - {fileID: 11400000, guid: 7c8e77dcfa0ee864abd52401ad3cb8cb, type: 2}
+  - {fileID: 11400000, guid: 63f64cc0b32389b49a5e824000e61a1c, type: 2}
+  - {fileID: 11400000, guid: e53f54a54434da74985c8049200f2de4, type: 2}
+  - {fileID: 11400000, guid: 00163c1fc94665e458396ae79f6ca592, type: 2}
+  - {fileID: 11400000, guid: 65267f4e176baa845b167953e1743546, type: 2}
+  - {fileID: 11400000, guid: f57eb68ed0110a840835bcc6e9ddafa9, type: 2}
+  - {fileID: 11400000, guid: 14809ed8b2a6fd74dbb08de7e5f60c29, type: 2}
+  - {fileID: 11400000, guid: a4e5f3ea25cc0aa469a5828f49bb5757, type: 2}
+  - {fileID: 11400000, guid: e2e839eb4120ba445a77ea466e411fb4, type: 2}
+  - {fileID: 11400000, guid: d73b7544c39357c45a4301015a23220e, type: 2}
+  - {fileID: 11400000, guid: 28cc11d1976beaf4f9a5ffa0591b9c90, type: 2}
+  - {fileID: 11400000, guid: 5fda988f02a464449b1f29fe1fcf1953, type: 2}
+  - {fileID: 11400000, guid: 06d2a14e441861e498918dde6667cbb1, type: 2}
+  - {fileID: 11400000, guid: a39bd7bfea9ee704b947e344311e78fd, type: 2}
+  - {fileID: 11400000, guid: 910d83f87130431449ae735a5b38ac66, type: 2}
+  - {fileID: 11400000, guid: 1b180ff28afc62c40aca9e32a873dac6, type: 2}
+  - {fileID: 11400000, guid: 9ed7e12f1640a7c4cad63c186cce05da, type: 2}
+  - {fileID: 11400000, guid: 98514488be31f8e44962599c88cdba01, type: 2}
+  - {fileID: 11400000, guid: a7f301fdd23363b469d5dcbaf30065f2, type: 2}
